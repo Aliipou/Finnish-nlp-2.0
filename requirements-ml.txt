@@ -1,0 +1,48 @@
+# ML Training Requirements
+# Additional dependencies for training custom ML models
+
+# Core ML (from requirements.txt)
+-r requirements.txt
+
+# Training & Optimization
+torch>=2.1.2
+transformers>=4.36.2
+datasets>=2.16.0
+accelerate>=0.25.0
+
+# Model Training Utilities
+wandb>=0.16.1  # Experiment tracking (optional)
+tensorboard>=2.15.0  # Training visualization
+
+# Data Processing
+pyarrow>=15.0.0  # Fast data serialization
+openpyxl>=3.1.2  # Excel file support
+
+# Similarity & Distance
+python-Levenshtein>=0.23.0  # Edit distance
+rapidfuzz>=3.5.0  # Fast fuzzy matching
+
+# Evaluation Metrics
+scikit-learn>=1.4.0  # Already in requirements.txt
+seaborn>=0.13.1  # Statistical visualizations
+
+# Progress Tracking
+tqdm>=4.66.1  # Progress bars
+
+# Notebook Support (for experimentation)
+jupyter>=1.0.0
+ipython>=8.19.0
+notebook>=7.0.6
+
+# Plotting & Visualization
+matplotlib>=3.8.2
+plotly>=5.18.0
+
+# Memory Profiling
+memory-profiler>=0.61.0
+py-cpuinfo>=9.0.0
+
+# Development Tools
+black>=23.12.1  # Code formatting
+pylint>=3.0.3  # Linting
+mypy>=1.8.0  # Type checking

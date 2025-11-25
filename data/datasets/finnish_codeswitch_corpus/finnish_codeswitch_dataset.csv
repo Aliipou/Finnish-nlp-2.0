@@ -1,0 +1,401 @@
+id,text,category,switch_points,primary_language
+31,Kävin kirjastossa ensi viikolla.,finnish_only,0,Finnish
+161,I very like writing.,english_only,0,English
+302,Haluaisin order phone.,code_switched,1,Mixed
+77,Olin eilen kirjastossa tapaamassa ystävää.,finnish_only,0,Finnish
+280,I learned physics next week.,english_only,0,English
+58,Onko sinulla aikaa nähdä ensi viikolla?,finnish_only,0,Finnish
+172,I went to a cafe next week.,english_only,0,English
+256,Do you have time to buy today?,english_only,0,English
+249,I would like to learn Finnish.,english_only,0,English
+149,Haluaisin käydä matematiikkaa.,finnish_only,0,Finnish
+101,Tykkään suomea todella.,finnish_only,0,Finnish
+279,I would like to buy math.,english_only,0,English
+195,I was at the library yesterday meeting a colleague.,english_only,0,English
+146,Opin historiaa huomenna.,finnish_only,0,Finnish
+67,Opin fysiikkaa huomenna.,finnish_only,0,Finnish
+41,Olin eilen kahvilassa tapaamassa perhettä.,finnish_only,0,Finnish
+182,I was at the library yesterday meeting my teacher.,english_only,0,English
+225,I would like to buy English.,english_only,0,English
+254,This is a good book.,english_only,0,English
+301,"I love this, se on niin awesome!",code_switched,2,Mixed
+327,Let's meet downtown and sitten mennään syömään.,code_switched,3,Mixed
+317,Menen shopping downtown.,code_switched,1,Mixed
+234,I went to the library next week.,english_only,0,English
+6,Pidän erittäin lukemisesta.,finnish_only,0,Finnish
+270,I would like to learn English.,english_only,0,English
+133,Minun täytyy nähdä huomenna.,finnish_only,0,Finnish
+316,Odotin long time mutta finally se tuli.,code_switched,0,Mixed
+37,Tämä on iso idea.,finnish_only,0,Finnish
+46,Haluaisin käydä englantia.,finnish_only,0,Finnish
+175,I quite like running.,english_only,0,English
+10,Onko sinulla aikaa nähdä eilen?,finnish_only,0,Finnish
+278,I went to downtown next week.,english_only,0,English
+86,Tämä on huono kirja.,finnish_only,0,Finnish
+206,This is a difficult day.,english_only,0,English
+157,Kävin kirjastossa ensi viikolla.,finnish_only,0,Finnish
+266,I was at the office yesterday meeting a colleague.,english_only,0,English
+339,Haluaisin order laptop.,code_switched,2,Mixed
+250,I learned math yesterday.,english_only,0,English
+173,I learned math next week.,english_only,0,English
+259,I would like to learn English.,english_only,0,English
+3,Olin eilen kahvilassa tapaamassa ystävää.,finnish_only,0,Finnish
+69,Pidän todella lukemisesta.,finnish_only,0,Finnish
+373,Onko sinulla time to call me?,code_switched,2,Mixed
+287,Odotin long time mutta finally se tuli.,code_switched,0,Mixed
+237,I quite like swimming.,english_only,0,English
+229,I quite like swimming.,english_only,0,English
+162,I'm going to the store to buy milk.,english_only,0,English
+178,I would like to see math.,english_only,0,English
+88,Minun täytyy oppia tänään.,finnish_only,0,Finnish
+53,Kävin kaupungilla huomenna.,finnish_only,0,Finnish
+62,Tykkään suomea erittäin.,finnish_only,0,Finnish
+23,Haluaisin oppia englantia.,finnish_only,0,Finnish
+328,Kävin gym tomorrow.,code_switched,1,Mixed
+333,Kävin gym huomenna.,code_switched,0,Mixed
+282,"I love this, se on niin nice!",code_switched,2,Mixed
+265,I very like swimming.,english_only,0,English
+236,I would like to do computer science.,english_only,0,English
+219,I went to downtown next week.,english_only,0,English
+166,I very like reading.,english_only,0,English
+371,Pidän very coding:sta but se on expensive.,code_switched,2,Mixed
+346,Meidän pitää update file asap.,code_switched,2,Mixed
+378,Odotin long time mutta finally se tuli.,code_switched,0,Mixed
+43,Onko sinulla aikaa tehdä ensi viikolla?,finnish_only,0,Finnish
+214,I would like to visit Finnish.,english_only,0,English
+97,Pidän hyvin juoksemisesta.,finnish_only,0,Finnish
+211,I would like to visit computer science.,english_only,0,English
+298,Let's meet kaupungilla and sitten mennään syömään.,code_switched,3,Mixed
+75,Tämä on vaikea idea.,finnish_only,0,Finnish
+305,Minun täytyy finish tämä project tomorrow.,code_switched,3,Mixed
+243,I was at a cafe yesterday meeting a colleague.,english_only,0,English
+268,This is a good movie.,english_only,0,English
+42,Minun täytyy oppia eilen.,finnish_only,0,Finnish
+95,Onko sinulla aikaa käydä eilen?,finnish_only,0,Finnish
+281,Käytin meeting friend next week.,code_switched,0,Mixed
+193,I went to the office today.,english_only,0,English
+94,Tykkään suomea todella.,finnish_only,0,Finnish
+248,I would like to learn English.,english_only,0,English
+54,Tämä on iso elokuva.,finnish_only,0,Finnish
+49,Kävin kaupungilla tänään.,finnish_only,0,Finnish
+198,I extremely like swimming.,english_only,0,English
+232,I was at the office yesterday meeting my teacher.,english_only,0,English
+212,Do you have time to do today?,english_only,0,English
+384,"Tykkään coding:sta, it's fun!",code_switched,2,Mixed
+82,Onko sinulla aikaa oppia huomenna?,finnish_only,0,Finnish
+145,Menen kauppaan ostamaan vaatteita.,finnish_only,0,Finnish
+9,Menen kauppaan ostamaan leipää.,finnish_only,0,Finnish
+52,Tykkään suomea todella.,finnish_only,0,Finnish
+102,Opin historiaa huomenna.,finnish_only,0,Finnish
+337,Minun täytyy finish tämä project tomorrow.,code_switched,3,Mixed
+194,Do you have time to visit today?,english_only,0,English
+119,Olin eilen kaupungilla tapaamassa kollegaa.,finnish_only,0,Finnish
+1,Olin eilen kaupungilla tapaamassa perhettä.,finnish_only,0,Finnish
+128,Onko sinulla aikaa oppia huomenna?,finnish_only,0,Finnish
+44,Menen kauppaan ostamaan kahvia.,finnish_only,0,Finnish
+400,Käytin meeting colleague next week.,code_switched,0,Mixed
+353,Let's meet downtown and sitten mennään syömään.,code_switched,3,Mixed
+100,Menen kauppaan ostamaan hedelmiä.,finnish_only,0,Finnish
+148,Tykkään suomea hyvin.,finnish_only,0,Finnish
+244,I very like running.,english_only,0,English
+35,Pidän erittäin juoksemisesta.,finnish_only,0,Finnish
+89,Tykkään englantia kovasti.,finnish_only,0,Finnish
+366,Meidän pitää update presentation asap.,code_switched,2,Mixed
+207,I like computer science very.,english_only,0,English
+241,I would like to see English.,english_only,0,English
+284,Menen shopping kaupungilla.,code_switched,0,Mixed
+192,I need to buy tomorrow.,english_only,0,English
+185,Do you have time to buy today?,english_only,0,English
+79,Menen kauppaan ostamaan maitoa.,finnish_only,0,Finnish
+208,I would like to see English.,english_only,0,English
+105,Tämä on vaikea projekti.,finnish_only,0,Finnish
+99,Kävin koulussa tänään.,finnish_only,0,Finnish
+218,I'm going to the store to buy fruits.,english_only,0,English
+380,Minun täytyy finish tämä project tomorrow.,code_switched,3,Mixed
+131,Onko sinulla aikaa oppia ensi viikolla?,finnish_only,0,Finnish
+104,Pidän hyvin uimisesta.,finnish_only,0,Finnish
+127,Tämä on pieni idea.,finnish_only,0,Finnish
+227,I need to learn next week.,english_only,0,English
+262,I went to the library yesterday.,english_only,0,English
+379,Menen shopping office.,code_switched,0,Mixed
+15,Kävin kahvilassa tänään.,finnish_only,0,Finnish
+48,Opin historiaa tänään.,finnish_only,0,Finnish
+307,Odotin long time mutta finally se tuli.,code_switched,0,Mixed
+197,I would like to buy math.,english_only,0,English
+271,I would like to see computer science.,english_only,0,English
+179,I learned math today.,english_only,0,English
+137,Opin historiaa ensi viikolla.,finnish_only,0,Finnish
+246,I was at the office yesterday meeting family.,english_only,0,English
+124,Pidän erittäin lukemisesta.,finnish_only,0,Finnish
+180,This is a bad movie.,english_only,0,English
+55,Opin historiaa huomenna.,finnish_only,0,Finnish
+360,"I love this, se on niin cool!",code_switched,2,Mixed
+27,Menen kauppaan ostamaan leipää.,finnish_only,0,Finnish
+138,Menen kauppaan ostamaan maitoa.,finnish_only,0,Finnish
+292,Tämä on really kaunis.,code_switched,1,Mixed
+74,Pidän erittäin juoksemisesta.,finnish_only,0,Finnish
+231,I learned math today.,english_only,0,English
+269,I went to a cafe next week.,english_only,0,English
+91,Olin eilen toimistolla tapaamassa ystävää.,finnish_only,0,Finnish
+164,I went to the library tomorrow.,english_only,0,English
+299,Meidän pitää update file asap.,code_switched,2,Mixed
+345,Kävin gym tomorrow.,code_switched,1,Mixed
+239,Do you have time to visit yesterday?,english_only,0,English
+143,Onko sinulla aikaa käydä huomenna?,finnish_only,0,Finnish
+375,Tämä on really nice.,code_switched,0,Mixed
+154,Haluaisin ostaa suomea.,finnish_only,0,Finnish
+363,Käytin meeting teacher tomorrow.,code_switched,1,Mixed
+245,I would like to visit math.,english_only,0,English
+294,Let's meet library and sitten mennään syömään.,code_switched,3,Mixed
+22,Minun täytyy nähdä huomenna.,finnish_only,0,Finnish
+306,Minun täytyy finish tämä project tänään.,code_switched,2,Mixed
+361,Onko sinulla time to call me?,code_switched,2,Mixed
+223,Do you have time to visit yesterday?,english_only,0,English
+40,Opin suomea eilen.,finnish_only,0,Finnish
+96,Haluaisin tehdä matematiikkaa.,finnish_only,0,Finnish
+66,Haluaisin ostaa englantia.,finnish_only,0,Finnish
+291,Voinko borrow laptop sinulta?,code_switched,2,Mixed
+221,Do you have time to do yesterday?,english_only,0,English
+81,Kävin kirjastossa huomenna.,finnish_only,0,Finnish
+25,Kävin kirjastossa eilen.,finnish_only,0,Finnish
+261,I like computer science very.,english_only,0,English
+309,Meidän pitää update document asap.,code_switched,2,Mixed
+177,I was at school yesterday meeting a colleague.,english_only,0,English
+87,Pidän todella lukemisesta.,finnish_only,0,Finnish
+263,I like math extremely.,english_only,0,English
+340,Meidän pitää update report asap.,code_switched,2,Mixed
+216,I learned history next week.,english_only,0,English
+341,Meidän pitää update file asap.,code_switched,2,Mixed
+320,Kävin gym next week.,code_switched,0,Mixed
+274,I was at a cafe yesterday meeting a colleague.,english_only,0,English
+167,I was at the library yesterday meeting a colleague.,english_only,0,English
+315,Let's meet library and sitten mennään syömään.,code_switched,3,Mixed
+362,Meidän pitää update file asap.,code_switched,2,Mixed
+267,This is a easy day.,english_only,0,English
+260,I was at a cafe yesterday meeting my teacher.,english_only,0,English
+310,Let's meet library and sitten mennään syömään.,code_switched,3,Mixed
+130,Haluaisin tehdä suomea.,finnish_only,0,Finnish
+117,Tämä on iso elokuva.,finnish_only,0,Finnish
+347,"I love this, se on niin cool!",code_switched,2,Mixed
+329,Opin coding tomorrow.,code_switched,1,Mixed
+153,Tämä on helppo projekti.,finnish_only,0,Finnish
+273,I like computer science very.,english_only,0,English
+84,Haluaisin ostaa matematiikkaa.,finnish_only,0,Finnish
+391,Voinko borrow phone sinulta?,code_switched,0,Mixed
+150,Onko sinulla aikaa nähdä ensi viikolla?,finnish_only,0,Finnish
+163,I extremely like reading.,english_only,0,English
+160,Olin eilen toimistolla tapaamassa perhettä.,finnish_only,0,Finnish
+383,Opin coding next week.,code_switched,0,Mixed
+230,I need to see yesterday.,english_only,0,English
+224,I need to do today.,english_only,0,English
+303,Meidän pitää update document asap.,code_switched,2,Mixed
+304,Kävin gym tänään.,code_switched,0,Mixed
+235,I'm going to the store to buy milk.,english_only,0,English
+364,Minun täytyy finish tämä project next week.,code_switched,2,Mixed
+19,Haluaisin oppia englantia.,finnish_only,0,Finnish
+314,"Tykkään workout:sta, it's fun!",code_switched,2,Mixed
+183,I need to visit next week.,english_only,0,English
+126,Tykkään englantia erittäin.,finnish_only,0,Finnish
+217,I was at a cafe yesterday meeting family.,english_only,0,English
+176,I quite like running.,english_only,0,English
+110,Haluaisin nähdä englantia.,finnish_only,0,Finnish
+388,Pidän hyvin gaming:sta but se on expensive.,code_switched,2,Mixed
+123,Minun täytyy oppia eilen.,finnish_only,0,Finnish
+16,Onko sinulla aikaa oppia eilen?,finnish_only,0,Finnish
+330,Onko sinulla time to call me?,code_switched,2,Mixed
+165,Do you have time to buy next week?,english_only,0,English
+381,Onko sinulla time to call me?,code_switched,2,Mixed
+78,Menen kauppaan ostamaan vaatteita.,finnish_only,0,Finnish
+134,Pidän todella kirjoittamisesta.,finnish_only,0,Finnish
+258,This is a small project.,english_only,0,English
+201,I went to downtown today.,english_only,0,English
+396,Let's meet library and sitten mennään syömään.,code_switched,3,Mixed
+394,Käytin meeting teacher tomorrow.,code_switched,1,Mixed
+158,Pidän kovasti kirjoittamisesta.,finnish_only,0,Finnish
+57,Opin historiaa huomenna.,finnish_only,0,Finnish
+374,Käytin meeting friend next week.,code_switched,0,Mixed
+336,Haluaisin order phone.,code_switched,1,Mixed
+28,Menen kauppaan ostamaan kahvia.,finnish_only,0,Finnish
+342,Kävin gym next week.,code_switched,0,Mixed
+344,Opin coding next week.,code_switched,0,Mixed
+93,Onko sinulla aikaa oppia huomenna?,finnish_only,0,Finnish
+200,Do you have time to see today?,english_only,0,English
+115,Menen kauppaan ostamaan kahvia.,finnish_only,0,Finnish
+122,Tämä on hyvä kirja.,finnish_only,0,Finnish
+334,Onko sinulla time to call me?,code_switched,2,Mixed
+321,Käytin meeting friend huomenna.,code_switched,0,Mixed
+30,Pidän hyvin kirjoittamisesta.,finnish_only,0,Finnish
+324,Menen shopping library.,code_switched,0,Mixed
+108,Tämä on kaunis päivä.,finnish_only,0,Finnish
+285,Pidän really gaming:sta but se on expensive.,code_switched,2,Mixed
+312,Menen shopping downtown.,code_switched,1,Mixed
+14,Tykkään suomea hyvin.,finnish_only,0,Finnish
+351,"I love this, se on niin awesome!",code_switched,2,Mixed
+343,Minun täytyy finish tämä project tomorrow.,code_switched,3,Mixed
+390,Let's meet kaupungilla and sitten mennään syömään.,code_switched,3,Mixed
+83,Onko sinulla aikaa oppia ensi viikolla?,finnish_only,0,Finnish
+151,Haluaisin käydä englantia.,finnish_only,0,Finnish
+61,Minun täytyy oppia huomenna.,finnish_only,0,Finnish
+202,I need to do today.,english_only,0,English
+365,Let's meet kaupungilla and sitten mennään syömään.,code_switched,3,Mixed
+92,Tykkään englantia todella.,finnish_only,0,Finnish
+4,Tykkään suomea kovasti.,finnish_only,0,Finnish
+289,Tämä on really awesome.,code_switched,0,Mixed
+7,Opin fysiikkaa huomenna.,finnish_only,0,Finnish
+222,I like computer science extremely.,english_only,0,English
+170,I was at the library yesterday meeting a colleague.,english_only,0,English
+29,Onko sinulla aikaa nähdä tänään?,finnish_only,0,Finnish
+45,Opin suomea huomenna.,finnish_only,0,Finnish
+205,I like English very.,english_only,0,English
+264,I like Finnish really.,english_only,0,English
+139,Haluaisin tehdä matematiikkaa.,finnish_only,0,Finnish
+34,Tykkään matematiikkaa kovasti.,finnish_only,0,Finnish
+38,Onko sinulla aikaa käydä tänään?,finnish_only,0,Finnish
+252,I like computer science quite.,english_only,0,English
+220,I need to buy tomorrow.,english_only,0,English
+369,Meidän pitää update document asap.,code_switched,2,Mixed
+2,Pidän erittäin kirjoittamisesta.,finnish_only,0,Finnish
+76,Haluaisin ostaa englantia.,finnish_only,0,Finnish
+169,I went to downtown tomorrow.,english_only,0,English
+319,Tämä on really nice.,code_switched,0,Mixed
+111,Minun täytyy tehdä eilen.,finnish_only,0,Finnish
+107,Opin suomea eilen.,finnish_only,0,Finnish
+36,Olin eilen kaupungilla tapaamassa ystävää.,finnish_only,0,Finnish
+106,Haluaisin käydä suomea.,finnish_only,0,Finnish
+65,Olin eilen kahvilassa tapaamassa kollegaa.,finnish_only,0,Finnish
+125,Minun täytyy käydä ensi viikolla.,finnish_only,0,Finnish
+171,I went to a cafe yesterday.,english_only,0,English
+386,Käytin meeting teacher huomenna.,code_switched,0,Mixed
+11,Tämä on huono kirja.,finnish_only,0,Finnish
+109,Olin eilen kahvilassa tapaamassa kollegaa.,finnish_only,0,Finnish
+332,Kävin gym huomenna.,code_switched,0,Mixed
+296,Onko sinulla time to call me?,code_switched,2,Mixed
+63,Olin eilen kaupungilla tapaamassa kollegaa.,finnish_only,0,Finnish
+376,Voinko borrow milk sinulta?,code_switched,0,Mixed
+142,Minun täytyy ostaa tänään.,finnish_only,0,Finnish
+335,Pidän todella shopping:sta but se on expensive.,code_switched,4,Mixed
+32,Tämä on kaunis idea.,finnish_only,0,Finnish
+399,Pidän hyvin workout:sta but se on expensive.,code_switched,2,Mixed
+325,Käytin meeting colleague tänään.,code_switched,0,Mixed
+389,Kävin gym tomorrow.,code_switched,1,Mixed
+186,I like computer science extremely.,english_only,0,English
+323,Haluaisin order book.,code_switched,1,Mixed
+283,"Tykkään gaming:sta, it's fun!",code_switched,2,Mixed
+228,I need to do next week.,english_only,0,English
+112,Opin historiaa ensi viikolla.,finnish_only,0,Finnish
+398,Kävin gym tomorrow.,code_switched,1,Mixed
+17,Tykkään englantia hyvin.,finnish_only,0,Finnish
+144,Haluaisin oppia tietotekniikkaa.,finnish_only,0,Finnish
+209,I like English really.,english_only,0,English
+251,I went to downtown today.,english_only,0,English
+51,Menen kauppaan ostamaan leipää.,finnish_only,0,Finnish
+354,Kävin gym tänään.,code_switched,0,Mixed
+80,Pidän erittäin juoksemisesta.,finnish_only,0,Finnish
+215,I like math really.,english_only,0,English
+350,Minun täytyy finish tämä project next week.,code_switched,2,Mixed
+190,I quite like running.,english_only,0,English
+377,Menen shopping office.,code_switched,0,Mixed
+199,I need to buy yesterday.,english_only,0,English
+70,Onko sinulla aikaa nähdä ensi viikolla?,finnish_only,0,Finnish
+276,I was at downtown yesterday meeting a colleague.,english_only,0,English
+121,Tykkään tietotekniikkaa erittäin.,finnish_only,0,Finnish
+367,Meidän pitää update report asap.,code_switched,2,Mixed
+308,Onko sinulla time to call me?,code_switched,2,Mixed
+253,I went to the library yesterday.,english_only,0,English
+156,Onko sinulla aikaa käydä eilen?,finnish_only,0,Finnish
+20,Olin eilen kirjastossa tapaamassa perhettä.,finnish_only,0,Finnish
+24,Opin matematiikkaa huomenna.,finnish_only,0,Finnish
+72,Olin eilen kaupungilla tapaamassa opettajaa.,finnish_only,0,Finnish
+60,Pidän erittäin lukemisesta.,finnish_only,0,Finnish
+210,I would like to learn Finnish.,english_only,0,English
+155,Haluaisin nähdä englantia.,finnish_only,0,Finnish
+238,I went to a cafe yesterday.,english_only,0,English
+33,Pidän hyvin juoksemisesta.,finnish_only,0,Finnish
+114,Onko sinulla aikaa nähdä tänään?,finnish_only,0,Finnish
+313,Opin coding tomorrow.,code_switched,1,Mixed
+355,Tämä on really kaunis.,code_switched,1,Mixed
+288,Odotin long time mutta finally se tuli.,code_switched,0,Mixed
+13,Olin eilen koulussa tapaamassa perhettä.,finnish_only,0,Finnish
+242,I was at the office yesterday meeting family.,english_only,0,English
+120,Opin historiaa tänään.,finnish_only,0,Finnish
+56,Opin matematiikkaa ensi viikolla.,finnish_only,0,Finnish
+191,I went to downtown next week.,english_only,0,English
+196,I went to the office today.,english_only,0,English
+300,Minun täytyy finish tämä project next week.,code_switched,2,Mixed
+135,Onko sinulla aikaa nähdä eilen?,finnish_only,0,Finnish
+189,I learned physics tomorrow.,english_only,0,English
+233,I went to a cafe tomorrow.,english_only,0,English
+64,Olin eilen kaupungilla tapaamassa perhettä.,finnish_only,0,Finnish
+275,This is a beautiful idea.,english_only,0,English
+136,Olin eilen koulussa tapaamassa perhettä.,finnish_only,0,Finnish
+8,Pidän kovasti uimisesta.,finnish_only,0,Finnish
+392,Voinko borrow laptop sinulta?,code_switched,2,Mixed
+357,Meidän pitää update document asap.,code_switched,2,Mixed
+372,"I love this, se on niin hyvä!",code_switched,2,Mixed
+286,"Tykkään shopping:sta, it's fun!",code_switched,2,Mixed
+204,I very like reading.,english_only,0,English
+116,Tämä on iso kirja.,finnish_only,0,Finnish
+73,Minun täytyy oppia huomenna.,finnish_only,0,Finnish
+39,Onko sinulla aikaa ostaa ensi viikolla?,finnish_only,0,Finnish
+240,I need to buy yesterday.,english_only,0,English
+59,Opin suomea ensi viikolla.,finnish_only,0,Finnish
+174,I went to the library yesterday.,english_only,0,English
+356,"Tykkään gaming:sta, it's fun!",code_switched,2,Mixed
+247,I quite like writing.,english_only,0,English
+132,Pidän erittäin juoksemisesta.,finnish_only,0,Finnish
+85,Onko sinulla aikaa käydä ensi viikolla?,finnish_only,0,Finnish
+140,Menen kauppaan ostamaan maitoa.,finnish_only,0,Finnish
+257,I like English really.,english_only,0,English
+272,I was at the office yesterday meeting family.,english_only,0,English
+188,I would like to buy computer science.,english_only,0,English
+277,I would like to visit math.,english_only,0,English
+358,Meidän pitää update report asap.,code_switched,2,Mixed
+103,Tämä on kaunis päivä.,finnish_only,0,Finnish
+90,Menen kauppaan ostamaan vaatteita.,finnish_only,0,Finnish
+213,I like Finnish very.,english_only,0,English
+168,This is a small project.,english_only,0,English
+395,"Tykkään gaming:sta, it's fun!",code_switched,2,Mixed
+47,Tämä on kaunis idea.,finnish_only,0,Finnish
+68,Pidän kovasti juoksemisesta.,finnish_only,0,Finnish
+187,I'm going to the store to buy coffee.,english_only,0,English
+297,Minun täytyy finish tämä project tomorrow.,code_switched,3,Mixed
+18,Olin eilen kaupungilla tapaamassa kollegaa.,finnish_only,0,Finnish
+226,I went to a cafe next week.,english_only,0,English
+159,Olin eilen koulussa tapaamassa perhettä.,finnish_only,0,Finnish
+21,Kävin koulussa huomenna.,finnish_only,0,Finnish
+331,Meidän pitää update report asap.,code_switched,2,Mixed
+368,Minun täytyy finish tämä project next week.,code_switched,2,Mixed
+50,Minun täytyy nähdä huomenna.,finnish_only,0,Finnish
+322,"I love this, se on niin cool!",code_switched,2,Mixed
+71,Onko sinulla aikaa ostaa tänään?,finnish_only,0,Finnish
+349,Pidän hyvin shopping:sta but se on expensive.,code_switched,2,Mixed
+393,Let's meet downtown and sitten mennään syömään.,code_switched,3,Mixed
+370,"Tykkään shopping:sta, it's fun!",code_switched,2,Mixed
+348,"Tykkään workout:sta, it's fun!",code_switched,2,Mixed
+129,Minun täytyy ostaa huomenna.,finnish_only,0,Finnish
+318,Haluaisin order book.,code_switched,1,Mixed
+98,Tämä on iso kirja.,finnish_only,0,Finnish
+326,Kävin gym tänään.,code_switched,0,Mixed
+113,Menen kauppaan ostamaan maitoa.,finnish_only,0,Finnish
+181,This is a big idea.,english_only,0,English
+385,Tämä on really cool.,code_switched,0,Mixed
+118,Opin suomea ensi viikolla.,finnish_only,0,Finnish
+147,Onko sinulla aikaa oppia eilen?,finnish_only,0,Finnish
+255,I went to downtown today.,english_only,0,English
+387,Kävin gym huomenna.,code_switched,0,Mixed
+311,Onko sinulla time to call me?,code_switched,2,Mixed
+26,Opin historiaa huomenna.,finnish_only,0,Finnish
+382,Tämä on really cool.,code_switched,0,Mixed
+352,Onko sinulla time to call me?,code_switched,2,Mixed
+290,Opin coding next week.,code_switched,0,Mixed
+5,Menen kauppaan ostamaan maitoa.,finnish_only,0,Finnish
+141,Tykkään matematiikkaa kovasti.,finnish_only,0,Finnish
+203,I'm going to the store to buy milk.,english_only,0,English
+338,Meidän pitää update document asap.,code_switched,2,Mixed
+12,Olin eilen kaupungilla tapaamassa opettajaa.,finnish_only,0,Finnish
+397,"I love this, se on niin nice!",code_switched,2,Mixed
+359,Käytin meeting teacher tänään.,code_switched,0,Mixed
+152,Pidän kovasti juoksemisesta.,finnish_only,0,Finnish
+295,Käytin meeting teacher tomorrow.,code_switched,1,Mixed
+184,Do you have time to learn tomorrow?,english_only,0,English
+293,Onko sinulla time to call me?,code_switched,2,Mixed

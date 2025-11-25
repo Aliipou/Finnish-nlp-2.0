@@ -1,0 +1,601 @@
+id,text,sentiment,score,domain
+505,Laatu toimii riittävästi.,neutral,0.54,feedback
+586,Tavallinen vaihtoehto tietyille käyttäjille.,neutral,0.52,product_review
+253,Olen äärimmäisen pettynyt palveluun.,negative,0.2,service_review
+246,Ratkaisu ei vastannut vaatimuksiani.,negative,0.18,feedback
+57,Erinomainen tuote. Toimii täydellisesti.,positive,0.95,product_review
+391,Inhoan ostokseen. Ei vastannut odotuksia.,negative,0.07,social_media
+587,Tuote vastasi hintaa.,neutral,0.54,social_media
+88,Olen erittäin tyytyväinen tulokseen.,positive,0.84,social_media
+408,Palvelu toimii tyydyttävästi.,neutral,0.48,feedback
+471,Asiakaspalvelu vastasi hintaa.,neutral,0.48,product_review
+380,Olen järkyttynyt kokemukseen.,negative,0.07,social_media
+247,"Kamala, epäpätevä ja kallis - täydellinen katastrofi.",negative,0.12,feedback
+506,Laatu on standardin mukainen.,neutral,0.48,feedback
+90,Olen erittäin iloinen kokemukseen.,positive,0.82,service_review
+540,Tuote on keskivertoa.,neutral,0.46,feedback
+91,Paras tuote ikinä! Kannattaa ehdottomasti.,positive,0.96,social_media
+271,Tämä pilasi ratkaisu. Ikävää.,negative,0.08,product_review
+265,"Kamala, hidas ja heikko - täydellinen katastrofi.",negative,0.07,social_media
+367,Tämä on kehno kokemus.,negative,0.13,service_review
+466,Laatu on kohtuullinen.,neutral,0.51,product_review
+312,En voi kuin valittaa tulokseen.,negative,0.12,feedback
+582,Laatu on keskivertoa.,neutral,0.46,social_media
+98,"Joka kerta kun suositella, olen onnellinen.",positive,0.89,social_media
+13,Olen täysin iloinen ostokseen.,positive,0.84,social_media
+468,Tämä riippuu hintaan nähden.,neutral,0.55,product_review
+242,Tämä pilasi tuote. Ikävää.,negative,0.13,feedback
+257,Tämä on surullinen kokemus.,negative,0.16,service_review
+494,Hinta on riittävä kategoriassaan.,neutral,0.49,service_review
+170,Olen erittäin iloinen palveluun.,positive,0.85,social_media
+373,Olen todella pettynyt tähän tuotteeseen.,negative,0.12,social_media
+463,Hinta on tyypillinen vertailussa.,neutral,0.47,feedback
+186,Olen äärimmäisen iloinen tähän tuotteeseen.,positive,0.92,feedback
+310,Olen äärimmäisen pettynyt ostokseen.,negative,0.11,product_review
+345,En voi kuin kritisoida tulokseen.,negative,0.18,product_review
+214,"Joka kerta kun kritisoida, olen surullinen.",negative,0.12,social_media
+160,"Erinomainen, ammattitaitoinen ja helppokäyttöinen - täydellinen yhdistelmä!",positive,0.9,service_review
+542,Asiakaspalvelu vastasi hintaa.,neutral,0.48,feedback
+139,Tämä muutti ratkaisu. Kiitos!,positive,0.9,feedback
+219,"Kamala, epäpätevä ja rikki - täydellinen katastrofi.",negative,0.05,feedback
+410,En osaa sanoa lopputulosta.,neutral,0.49,service_review
+355,Olen erittäin tyytymätön ostokseen.,negative,0.16,social_media
+159,Tämä muutti ratkaisu. Kiitos!,positive,0.84,product_review
+439,Toimitus on riittävä.,neutral,0.49,social_media
+174,Upea laatu ja nopea palvelu!,positive,0.86,social_media
+317,Tämä pilasi valinta. Ikävää.,negative,0.08,social_media
+229,"Joka kerta kun pahoitella, olen hirveä.",negative,0.1,service_review
+318,Tämä on surkea kokemus.,negative,0.08,feedback
+580,Asiakaspalvelu vastasi hintaa.,neutral,0.51,social_media
+195,Erinomainen ratkaisu. Paras valinta.,positive,0.93,feedback
+205,En voi kuin valittaa tähän tuotteeseen.,negative,0.14,social_media
+491,Tämä riippuu kategoriassaan.,neutral,0.5,service_review
+222,Tämä on riittämätön kokemus.,negative,0.16,social_media
+308,En voi kuin pahoitella ostokseen.,negative,0.15,social_media
+268,Ratkaisu ei vastannut toiveitani.,negative,0.15,feedback
+99,Erinomainen tuote. Paras valinta.,positive,0.93,service_review
+244,Inhoan tähän tuotteeseen. Ei vastannut odotuksia.,negative,0.06,feedback
+531,Tuote toimii tyydyttävästi.,neutral,0.54,product_review
+77,Rakastan tähän tuotteeseen. Paras valinta.,positive,0.94,product_review
+534,Palvelu oli perus.,neutral,0.53,feedback
+565,Hinta on kohtuullinen kategoriassaan.,neutral,0.52,service_review
+414,En osaa sanoa lopputulosta.,neutral,0.5,service_review
+404,Tämä riippuu kategoriassaan.,neutral,0.51,service_review
+482,Tuote vastasi lopputulosta.,neutral,0.51,product_review
+293,En voi kuin valittaa kokemukseen.,negative,0.1,service_review
+545,Kokemus oli riittävä.,neutral,0.48,product_review
+467,En osaa sanoa kuvausta.,neutral,0.47,service_review
+430,Hinta toimii normaalisti.,neutral,0.57,social_media
+132,"Joka kerta kun ihailla, olen erinomainen.",positive,0.83,product_review
+529,Odotettavissa oleva kuvausta.,neutral,0.5,service_review
+576,Hinta toimii tyydyttävästi.,neutral,0.57,service_review
+125,En voi kuin ihailla ostokseen.,positive,0.89,feedback
+79,Tämä muutti tuote. Kiitos!,positive,0.87,feedback
+299,Tämä on kehno kokemus.,negative,0.15,service_review
+83,Tuote ylitti standardini.,positive,0.86,feedback
+496,Kokemus oli keskinkertainen.,neutral,0.45,feedback
+76,Erinomainen laatu ja laadukas palvelu!,positive,0.91,feedback
+115,Ratkaisu ylitti vaatimukseni.,positive,0.89,feedback
+126,Olen täysin iloinen ostokseen.,positive,0.9,feedback
+111,"Joka kerta kun arvostaa, olen uskomaton.",positive,0.88,social_media
+465,Asiakaspalvelu vastasi laatua.,neutral,0.55,service_review
+591,Normaali vaihtoehto monille.,neutral,0.49,feedback
+38,Tämä muutti investointi. Kiitos!,positive,0.87,feedback
+26,"Joka kerta kun ihailla, olen iloinen.",positive,0.83,feedback
+119,En voi kuin ihailla palveluun.,positive,0.85,product_review
+392,Inhoan tulokseen. Toimi huonosti.,negative,0.11,service_review
+407,Odotettavissa oleva laatua.,neutral,0.51,product_review
+260,Kauhea investointi. Ei vastannut odotuksia.,negative,0.07,feedback
+243,En suosittele ystävilleni.,negative,0.16,product_review
+182,"Fantastinen, ammattitaitoinen ja edullinen - täydellinen yhdistelmä!",positive,0.91,feedback
+199,Loistava laatu ja ystävällinen palvelu!,positive,0.92,feedback
+307,Kauhea laatu ja tehoton palvelu.,negative,0.13,feedback
+60,"Loistava, ammattitaitoinen ja toimiva - täydellinen yhdistelmä!",positive,0.92,social_media
+352,"Hirveä, tehoton ja kallis - täydellinen katastrofi.",negative,0.09,social_media
+522,Laatu toimii normaalisti.,neutral,0.53,service_review
+6,"Joka kerta kun arvostaa, olen erinomainen.",positive,0.85,service_review
+194,En voi kuin suositella tähän tuotteeseen.,positive,0.86,social_media
+113,Paras palvelu ikinä! Ylitti odotukset.,positive,0.89,feedback
+256,Olen todella tyytymätön palveluun.,negative,0.13,service_review
+7,Erinomainen tuote! Suosittelen lämpimästi.,positive,0.84,product_review
+436,Palvelu on kohtuullinen.,neutral,0.5,feedback
+427,Toimitus on kohtuullinen.,neutral,0.53,social_media
+224,Kauhea laatu ja tehoton palvelu.,negative,0.19,feedback
+600,Standardin mukainen hintaa.,neutral,0.51,service_review
+598,Palvelu oli keskinkertainen.,neutral,0.45,social_media
+532,Palvelu oli perus.,neutral,0.51,product_review
+450,Kokemus oli tavallinen.,neutral,0.52,service_review
+35,Tämä muutti ratkaisu. Kiitos!,positive,0.92,service_review
+596,Kohtuullinen vaihtoehto tietyille käyttäjille.,neutral,0.5,feedback
+551,Odotettavissa oleva kuvausta.,neutral,0.51,social_media
+114,Olen vaikuttunut palveluun.,positive,0.86,product_review
+527,Toimitus on normaali.,neutral,0.51,product_review
+386,"Joka kerta kun valittaa, olen surkea.",negative,0.09,service_review
+29,Mahtava laatu ja laadukas palvelu!,positive,0.87,social_media
+54,Kokemus ylitti standardini.,positive,0.87,feedback
+216,Olen äärimmäisen tyytymätön ostokseen.,negative,0.12,service_review
+340,Olen täysin pettynyt tulokseen.,negative,0.14,feedback
+92,"Erinomainen, nopea ja luotettava - täydellinen yhdistelmä!",positive,0.91,feedback
+147,Tämä on fantastinen kokemus!,positive,0.92,feedback
+212,Tämä pilasi investointi. Ikävää.,negative,0.16,service_review
+424,Tavallinen vaihtoehto useimmille.,neutral,0.45,social_media
+597,Asiakaspalvelu vastasi palvelua.,neutral,0.5,social_media
+267,Tämä on kamala kokemus.,negative,0.16,service_review
+327,Kauhea investointi. Ei vastannut odotuksia.,negative,0.09,service_review
+484,Normaali kuvausta ilman lisäominaisuuksia.,neutral,0.51,social_media
+432,Toimitus on keskivertoa.,neutral,0.51,product_review
+438,Perus vaihtoehto monille.,neutral,0.5,social_media
+50,Loistava laatu ja ammattitaitoinen palvelu!,positive,0.93,product_review
+239,Tämä pilasi investointi. Ikävää.,negative,0.14,feedback
+428,Normaali laatua ilman lisäominaisuuksia.,neutral,0.54,feedback
+210,Surkea laatu ja epäpätevä palvelu.,negative,0.19,feedback
+552,Palvelu oli keskinkertainen.,neutral,0.49,product_review
+537,Ei odotettavissa oleva eikä {adj2}.,neutral,0.48,feedback
+12,Tämä on fantastinen kokemus!,positive,0.94,feedback
+536,Normaali vaihtoehto joillekin.,neutral,0.47,social_media
+241,Olen hyvin pettynyt tulokseen.,negative,0.13,service_review
+543,Hinta on keskivertoa.,neutral,0.51,product_review
+181,En voi kuin arvostaa tulokseen.,positive,0.9,service_review
+331,"Kauhea, epäpätevä ja heikko - täydellinen katastrofi.",negative,0.09,social_media
+66,Olen todella iloinen kokemukseen.,positive,0.9,social_media
+41,Olen erittäin tyytyväinen tähän tuotteeseen.,positive,0.82,product_review
+95,"Mahtava, ystävällinen ja helppokäyttöinen - täydellinen yhdistelmä!",positive,0.91,product_review
+275,Huono laatu ja epäystävällinen palvelu.,negative,0.15,social_media
+433,Normaali palvelua ilman yllätyksiä.,neutral,0.51,feedback
+562,Palvelu on keskinkertainen.,neutral,0.5,feedback
+248,Olen erittäin tyytymätön ostokseen.,negative,0.1,feedback
+263,Olen täysin pettynyt kokemukseen.,negative,0.14,product_review
+401,Normaali kuvausta ilman erikoisuuksia.,neutral,0.55,social_media
+510,Kokemus oli standardin mukainen.,neutral,0.47,product_review
+20,Olen vaikuttunut tulokseen.,positive,0.84,feedback
+148,Erinomainen investointi. Toimii täydellisesti.,positive,0.9,feedback
+284,Ratkaisu ei vastannut standardejani.,negative,0.14,social_media
+190,Olen hyvin iloinen palveluun.,positive,0.91,feedback
+473,Asiakaspalvelu vastasi kuvausta.,neutral,0.53,social_media
+481,Tuote vastasi hintaa.,neutral,0.54,feedback
+287,En voi kuin harmitella kokemukseen.,negative,0.15,feedback
+86,Paras investointi ikinä! Kannattaa ehdottomasti.,positive,0.97,social_media
+8,Paras valinta ikinä! Paras valinta.,positive,0.9,product_review
+520,Tämä riippuu vertailussa.,neutral,0.54,feedback
+363,Kauhea laatu ja epäystävällinen palvelu.,negative,0.1,social_media
+526,Hinta on riittävä kategoriassaan.,neutral,0.49,social_media
+96,Olen äärimmäisen iloinen palveluun.,positive,0.86,social_media
+480,Normaali lopputulosta ilman yllätyksiä.,neutral,0.48,feedback
+362,"Joka kerta kun valittaa, olen surullinen.",negative,0.11,product_review
+133,Suosittelen ehdottomasti ystävilleni.,positive,0.86,feedback
+134,Palvelu ylitti odotukseni.,positive,0.9,service_review
+89,Valinta ylitti odotukseni.,positive,0.88,service_review
+255,Kamala laatu ja epäystävällinen palvelu.,negative,0.17,product_review
+42,Erinomainen laatu ja nopea palvelu!,positive,0.9,social_media
+3,"Fantastinen, nopea ja edullinen - täydellinen yhdistelmä!",positive,0.87,service_review
+431,Odotettavissa oleva kuvausta.,neutral,0.52,social_media
+387,"Joka kerta kun valittaa, olen kauhea.",negative,0.16,product_review
+421,Odotettavissa oleva lopputulosta.,neutral,0.49,product_review
+458,Standardin mukainen kuvausta.,neutral,0.56,feedback
+169,Olen täysin tyytyväinen kokemukseen.,positive,0.87,feedback
+570,Asiakaspalvelu vastasi palvelua.,neutral,0.53,service_review
+516,Asiakaspalvelu vastasi palvelua.,neutral,0.56,service_review
+337,Tämä on kauhea kokemus.,negative,0.1,service_review
+156,Tämä on fantastinen kokemus!,positive,0.88,social_media
+328,"Hirveä, tehoton ja heikko - täydellinen katastrofi.",negative,0.06,service_review
+566,Normaali lopputulosta ilman yllätyksiä.,neutral,0.53,service_review
+590,Tuote vastasi kuvausta.,neutral,0.48,service_review
+187,Mahtava laatu ja nopea palvelu!,positive,0.92,feedback
+23,Rakastan palveluun. Kannattaa ehdottomasti.,positive,0.96,feedback
+63,En voi kuin kehua ostokseen.,positive,0.81,product_review
+15,"Upea, laadukas ja kestävä - täydellinen yhdistelmä!",positive,0.88,feedback
+311,"Surkea, huonolaatuinen ja vaikea käyttää - täydellinen katastrofi.",negative,0.09,product_review
+283,Inhoan tähän tuotteeseen. Ei vastannut odotuksia.,negative,0.1,service_review
+472,Tämä riippuu hintaan nähden.,neutral,0.48,social_media
+223,Tämä pilasi ratkaisu. Ikävää.,negative,0.14,feedback
+475,Tämä riippuu kilpailijoihin.,neutral,0.51,social_media
+412,Kokemus oli normaali.,neutral,0.5,feedback
+237,Hirveä laatu ja huonolaatuinen palvelu.,negative,0.13,feedback
+167,"Loistava, tehokas ja kestävä - täydellinen yhdistelmä!",positive,0.89,product_review
+163,Rakastan palveluun. Paras valinta.,positive,0.91,service_review
+230,"Kauhea, tehoton ja kallis - täydellinen katastrofi.",negative,0.13,product_review
+101,Rakastan tähän tuotteeseen. Ylitti odotukset.,positive,0.92,feedback
+84,Paras palvelu ikinä! Paras valinta.,positive,0.89,service_review
+208,Tämä on riittämätön kokemus.,negative,0.15,social_media
+206,Huono laatu ja epäpätevä palvelu.,negative,0.1,feedback
+459,Odotettavissa oleva palvelua.,neutral,0.48,social_media
+131,En voi kuin ihailla ostokseen.,positive,0.83,product_review
+21,Suosittelen ehdottomasti kaikille tuttuilleni.,positive,0.84,service_review
+80,"Upea, tehokas ja kestävä - täydellinen yhdistelmä!",positive,0.96,service_review
+285,Olen äärimmäisen tyytymätön tulokseen.,negative,0.14,product_review
+374,Huonoin valinta ikinä. En suosittele.,negative,0.05,service_review
+320,Tämä on tyytymätön kokemus.,negative,0.14,social_media
+158,Olen erittäin iloinen tähän tuotteeseen.,positive,0.88,service_review
+209,Huonoin investointi ikinä. En suosittele.,negative,0.06,social_media
+533,Palvelu oli perus.,neutral,0.52,social_media
+259,Inhoan ostokseen. Ei vastannut odotuksia.,negative,0.04,feedback
+490,Odotettavissa oleva palvelua.,neutral,0.5,feedback
+103,Olen vaikuttunut kokemukseen.,positive,0.84,service_review
+277,Tämä pilasi ratkaisu. Ikävää.,negative,0.09,product_review
+370,Inhoan kokemukseen. Huono valinta.,negative,0.07,social_media
+107,Tämä muutti valinta. Kiitos!,positive,0.93,social_media
+493,Normaali vaihtoehto joillekin.,neutral,0.53,product_review
+338,Hirveä laatu ja hidas palvelu.,negative,0.18,service_review
+183,Paras investointi ikinä! Paras valinta.,positive,0.88,service_review
+301,Kauhea laatu ja epäystävällinen palvelu.,negative,0.11,service_review
+295,Tuote ei vastannut standardejani.,negative,0.2,social_media
+130,Rakastan kokemukseen. Ylitti odotukset.,positive,0.96,service_review
+102,"Loistava, ammattitaitoinen ja helppokäyttöinen - täydellinen yhdistelmä!",positive,0.95,service_review
+330,Tämä pilasi investointi. Ikävää.,negative,0.09,feedback
+16,Olen hyvin iloinen palveluun.,positive,0.89,product_review
+11,"Upea, nopea ja edullinen - täydellinen yhdistelmä!",positive,0.93,social_media
+56,"Mahtava, nopea ja luotettava - täydellinen yhdistelmä!",positive,0.87,feedback
+309,Kauhea kokemus. Ei vastannut odotuksia.,negative,0.11,product_review
+446,Hinta on tavallinen hintaan nähden.,neutral,0.54,product_review
+18,Mahtava investointi! Suosittelen lämpimästi.,positive,0.86,feedback
+151,En voi kuin ylistää tulokseen.,positive,0.84,social_media
+291,Olen todella pettynyt ostokseen.,negative,0.19,service_review
+252,Tämä pilasi investointi. Ikävää.,negative,0.13,product_review
+258,Olen äärimmäisen pettynyt palveluun.,negative,0.16,product_review
+557,Tuote vastasi lopputulosta.,neutral,0.5,service_review
+297,Olen erittäin tyytymätön kokemukseen.,negative,0.08,social_media
+503,En osaa sanoa laatua.,neutral,0.48,service_review
+175,"Mahtava, ystävällinen ja helppokäyttöinen - täydellinen yhdistelmä!",positive,0.87,social_media
+530,Tuote vastasi hintaa.,neutral,0.47,feedback
+94,Fantastinen investointi! Suosittelen lämpimästi.,positive,0.92,service_review
+535,Odotettavissa oleva hintaa.,neutral,0.47,product_review
+572,En osaa sanoa laatua.,neutral,0.53,feedback
+215,En suosittele kenellekään.,negative,0.1,product_review
+221,En suosittele tuttavilleni.,negative,0.19,service_review
+100,Tämä muutti kokemus. Kiitos!,positive,0.85,service_review
+515,Hinta on tavallinen kilpailijoihin.,neutral,0.53,product_review
+460,Standardin mukainen kuvausta.,neutral,0.46,product_review
+240,Kauhea laatu ja hidas palvelu.,negative,0.16,feedback
+93,Paras investointi ikinä! Kannattaa ehdottomasti.,positive,0.9,service_review
+4,Erinomainen valinta. Ylitti odotukset.,positive,0.87,feedback
+315,Olen todella pettynyt kokemukseen.,negative,0.2,service_review
+136,"Joka kerta kun kehua, olen vaikuttava.",positive,0.85,feedback
+19,Ratkaisu ylitti toiveeni.,positive,0.87,service_review
+477,Odotettavissa oleva hintaa.,neutral,0.53,product_review
+164,Tämä on uskomaton kokemus!,positive,0.93,service_review
+270,Tämä pilasi kokemus. Ikävää.,negative,0.11,service_review
+124,Rakastan tähän tuotteeseen. Paras valinta.,positive,0.94,service_review
+521,Odotettavissa oleva laatua.,neutral,0.55,social_media
+198,"Joka kerta kun ihailla, olen täydellinen.",positive,0.91,social_media
+488,Standardin mukainen kuvausta.,neutral,0.56,feedback
+123,Tämä on iloinen kokemus!,positive,0.89,feedback
+28,Erinomainen valinta. Toimii täydellisesti.,positive,0.94,social_media
+152,Paras kokemus ikinä! Kannattaa ehdottomasti.,positive,0.9,service_review
+201,Huonoin ratkaisu ikinä. En suosittele.,negative,0.14,service_review
+97,En voi kuin arvostaa kokemukseen.,positive,0.88,feedback
+261,"Joka kerta kun kritisoida, olen surkea.",negative,0.13,service_review
+445,Ei odotettavissa oleva eikä {adj2}.,neutral,0.55,service_review
+342,En suosittele kenellekään.,negative,0.18,social_media
+14,Erinomainen investointi! Suosittelen lämpimästi.,positive,0.92,product_review
+366,En suosittele ystävilleni.,negative,0.18,feedback
+595,Hinta toimii riittävästi.,neutral,0.52,service_review
+44,Olen vaikuttunut tulokseen.,positive,0.85,service_review
+420,Toimitus toimii riittävästi.,neutral,0.48,feedback
+411,Ei odotettavissa oleva eikä {adj2}.,neutral,0.54,social_media
+486,Asiakaspalvelu vastasi hintaa.,neutral,0.53,product_review
+162,Ratkaisu ylitti odotukseni.,positive,0.9,product_review
+379,En suosittele kenellekään.,negative,0.13,social_media
+288,Olen todella tyytymätön tulokseen.,negative,0.09,feedback
+561,Tämä riippuu hintaan nähden.,neutral,0.54,product_review
+351,Olen täysin tyytymätön tähän tuotteeseen.,negative,0.14,service_review
+449,Toimitus on keskinkertainen.,neutral,0.53,service_review
+52,Rakastan kokemukseen. Kannattaa ehdottomasti.,positive,0.95,feedback
+563,Tuote vastasi kuvausta.,neutral,0.48,product_review
+372,Huonoin tuote ikinä. Toimi huonosti.,negative,0.06,feedback
+227,Olen erittäin tyytymätön tulokseen.,negative,0.17,product_review
+492,Hinta on keskivertoa.,neutral,0.46,feedback
+78,Suosittelen ehdottomasti ystävilleni.,positive,0.82,service_review
+476,En osaa sanoa lopputulosta.,neutral,0.54,service_review
+456,Standardin mukainen kuvausta.,neutral,0.53,service_review
+349,Tämä on kamala kokemus.,negative,0.15,feedback
+332,"Joka kerta kun valittaa, olen riittämätön.",negative,0.12,feedback
+454,En osaa sanoa palvelua.,neutral,0.5,service_review
+289,Tämä on pettymys kokemus.,negative,0.14,feedback
+272,Tämä on kehno kokemus.,negative,0.08,social_media
+36,Olen hyvin iloinen tulokseen.,positive,0.86,service_review
+74,Rakastan kokemukseen. Kannattaa ehdottomasti.,positive,0.96,product_review
+69,Olen vaikuttunut tulokseen.,positive,0.81,social_media
+196,Fantastinen valinta! Suosittelen lämpimästi.,positive,0.84,service_review
+71,Erinomainen kokemus. Kannattaa ehdottomasti.,positive,0.94,product_review
+154,Olen vaikuttunut tulokseen.,positive,0.89,service_review
+389,"Huono, hidas ja epäluotettava - täydellinen katastrofi.",negative,0.08,feedback
+161,Olen äärimmäisen tyytyväinen kokemukseen.,positive,0.81,product_review
+303,En suosittele ystävilleni.,negative,0.14,service_review
+483,Tämä riippuu kilpailijoihin.,neutral,0.51,feedback
+46,Tämä muutti ratkaisu. Kiitos!,positive,0.87,feedback
+197,Suosittelen ehdottomasti jokaiselle.,positive,0.89,social_media
+118,Olen täysin iloinen kokemukseen.,positive,0.87,service_review
+37,Suosittelen ehdottomasti jokaiselle.,positive,0.87,feedback
+329,Olen järkyttynyt kokemukseen.,negative,0.05,social_media
+319,Olen äärimmäisen tyytymätön tulokseen.,negative,0.17,social_media
+217,Kauhea valinta. En suosittele.,negative,0.13,service_review
+62,Erinomainen ratkaisu! Suosittelen lämpimästi.,positive,0.84,social_media
+359,Tämä on riittämätön kokemus.,negative,0.07,service_review
+314,Olen järkyttynyt tähän tuotteeseen.,negative,0.1,service_review
+585,Normaali palvelua ilman lisäominaisuuksia.,neutral,0.51,feedback
+228,En suosittele tuttavilleni.,negative,0.18,social_media
+266,Valinta ei vastannut vaatimuksiani.,negative,0.16,feedback
+116,Olen todella tyytyväinen kokemukseen.,positive,0.84,product_review
+304,Huono palvelu. En suosittele.,negative,0.12,service_review
+344,Olen järkyttynyt palveluun.,negative,0.13,feedback
+40,Olen hyvin tyytyväinen tulokseen.,positive,0.82,service_review
+556,En osaa sanoa hintaa.,neutral,0.52,feedback
+110,En voi kuin suositella ostokseen.,positive,0.89,social_media
+409,Kokemus oli normaali.,neutral,0.46,social_media
+523,Asiakaspalvelu vastasi hintaa.,neutral,0.47,feedback
+47,En voi kuin kehua tähän tuotteeseen.,positive,0.82,social_media
+346,Olen todella tyytymätön palveluun.,negative,0.13,feedback
+554,Palvelu oli standardin mukainen.,neutral,0.53,feedback
+157,Rakastan ostokseen. Ylitti odotukset.,positive,0.97,service_review
+354,Ratkaisu ei vastannut odotuksiani.,negative,0.17,social_media
+589,Odotettavissa oleva laatua.,neutral,0.56,feedback
+27,Rakastan kokemukseen. Ylitti odotukset.,positive,1.0,social_media
+451,Palvelu on keskivertoa.,neutral,0.46,feedback
+343,"Joka kerta kun valittaa, olen kauhea.",negative,0.08,feedback
+544,Standardin mukainen lopputulosta.,neutral,0.55,service_review
+43,Tämä muutti ratkaisu. Kiitos!,positive,0.85,service_review
+129,Upea tuote! Suosittelen lämpimästi.,positive,0.89,service_review
+185,Mahtava laatu ja nopea palvelu!,positive,0.9,social_media
+470,Hinta toimii normaalisti.,neutral,0.5,social_media
+382,Huono laatu ja epäpätevä palvelu.,negative,0.11,feedback
+141,En voi kuin ylistää kokemukseen.,positive,0.84,service_review
+82,"Joka kerta kun suositella, olen täydellinen.",positive,0.85,product_review
+155,Upea investointi! Suosittelen lämpimästi.,positive,0.88,social_media
+333,En voi kuin harmitella ostokseen.,negative,0.14,feedback
+588,Toimitus on tavallinen.,neutral,0.56,feedback
+104,Rakastan tähän tuotteeseen. Ylitti odotukset.,positive,0.98,service_review
+371,"Hirveä, epäystävällinen ja kallis - täydellinen katastrofi.",negative,0.05,feedback
+1,Tämä muutti tuote. Kiitos!,positive,0.83,social_media
+234,Kauhea palvelu. Huono valinta.,negative,0.09,feedback
+487,En osaa sanoa laatua.,neutral,0.52,product_review
+81,Suosittelen ehdottomasti kaikille tuttuilleni.,positive,0.8,social_media
+64,Tämä on uskomaton kokemus!,positive,0.87,social_media
+9,Olen vaikuttunut kokemukseen.,positive,0.84,feedback
+236,Tämä on kauhea kokemus.,negative,0.15,service_review
+558,Asiakaspalvelu vastasi kuvausta.,neutral,0.48,service_review
+51,Olen hyvin tyytyväinen tähän tuotteeseen.,positive,0.9,service_review
+24,Valinta ylitti standardini.,positive,0.89,product_review
+25,Tämä muutti investointi. Kiitos!,positive,0.84,social_media
+350,"Surkea, hidas ja rikki - täydellinen katastrofi.",negative,0.1,service_review
+176,Olen vaikuttunut kokemukseen.,positive,0.88,feedback
+249,Kauhea tuote. En suosittele.,negative,0.19,social_media
+508,Odotettavissa oleva palvelua.,neutral,0.55,feedback
+67,"Mahtava, nopea ja toimiva - täydellinen yhdistelmä!",positive,0.89,product_review
+405,Toimitus toimii kohtuullisesti.,neutral,0.5,social_media
+281,En suosittele ystävilleni.,negative,0.14,service_review
+173,Tuote ylitti toiveeni.,positive,0.9,social_media
+146,Olen hyvin iloinen ostokseen.,positive,0.88,service_review
+435,Kokemus oli tavallinen.,neutral,0.49,feedback
+423,Perus vaihtoehto joillekin.,neutral,0.47,feedback
+579,Toimitus on keskivertoa.,neutral,0.45,feedback
+109,Mahtava laatu ja ammattitaitoinen palvelu!,positive,0.94,feedback
+452,Laatu toimii normaalisti.,neutral,0.54,service_review
+485,Asiakaspalvelu vastasi kuvausta.,neutral,0.51,product_review
+204,Olen järkyttynyt kokemukseen.,negative,0.09,service_review
+274,Tämä pilasi tuote. Ikävää.,negative,0.11,feedback
+33,Suosittelen ehdottomasti kaikille.,positive,0.81,feedback
+184,Paras investointi ikinä! Kannattaa ehdottomasti.,positive,0.92,feedback
+358,Hirveä laatu ja epäpätevä palvelu.,negative,0.15,service_review
+341,Tämä on surkea kokemus.,negative,0.09,social_media
+326,Inhoan tähän tuotteeseen. Huono valinta.,negative,0.11,product_review
+509,En osaa sanoa lopputulosta.,neutral,0.5,feedback
+577,Laatu toimii riittävästi.,neutral,0.55,feedback
+395,Huonoin tuote ikinä. Huono valinta.,negative,0.08,social_media
+376,En voi kuin valittaa tähän tuotteeseen.,negative,0.14,feedback
+2,Upea palvelu! Suosittelen lämpimästi.,positive,0.9,product_review
+298,Inhoan tulokseen. En suosittele.,negative,0.11,social_media
+168,Rakastan palveluun. Toimii täydellisesti.,positive,0.96,service_review
+250,Kauhea tuote. Huono valinta.,negative,0.1,service_review
+233,Inhoan palveluun. Toimi huonosti.,negative,0.11,social_media
+594,Standardin mukainen kuvausta.,neutral,0.47,service_review
+356,Huono valinta. En suosittele.,negative,0.16,social_media
+143,"Joka kerta kun ylistää, olen huikea.",positive,0.88,feedback
+384,Tämä pilasi kokemus. Ikävää.,negative,0.14,social_media
+548,Odotettavissa oleva palvelua.,neutral,0.55,social_media
+207,Olen todella pettynyt kokemukseen.,negative,0.19,service_review
+48,"Joka kerta kun suositella, olen upea.",positive,0.84,feedback
+528,Tavallinen vaihtoehto useimmille.,neutral,0.54,product_review
+325,Kauhea ratkaisu. En suosittele.,negative,0.11,service_review
+39,Tämä on fantastinen kokemus!,positive,0.87,social_media
+232,Tämä on pettymys kokemus.,negative,0.1,feedback
+193,Erinomainen tuote. Kannattaa ehdottomasti.,positive,0.87,product_review
+213,Olen järkyttynyt tähän tuotteeseen.,negative,0.09,product_review
+322,Olen hyvin tyytymätön kokemukseen.,negative,0.14,social_media
+498,Normaali kuvausta ilman erikoisuuksia.,neutral,0.52,product_review
+453,Palvelu oli perus.,neutral,0.55,service_review
+512,Normaali vaihtoehto useimmille.,neutral,0.48,product_review
+73,Olen erittäin tyytyväinen ostokseen.,positive,0.88,social_media
+251,Tämä on riittämätön kokemus.,negative,0.08,service_review
+575,Tämä riippuu hintaan nähden.,neutral,0.48,feedback
+347,Tämä on pettymys kokemus.,negative,0.09,product_review
+489,Palvelu oli standardin mukainen.,neutral,0.49,service_review
+478,Kohtuullinen vaihtoehto tietyille käyttäjille.,neutral,0.46,product_review
+165,"Joka kerta kun arvostaa, olen uskomaton.",positive,0.87,feedback
+365,Huonoin ratkaisu ikinä. Toimi huonosti.,negative,0.12,social_media
+75,Tämä on onnellinen kokemus!,positive,0.94,product_review
+128,Loistava investointi! Suosittelen lämpimästi.,positive,0.83,product_review
+68,Suosittelen ehdottomasti jokaiselle.,positive,0.83,product_review
+360,Olen todella pettynyt tähän tuotteeseen.,negative,0.13,social_media
+581,Ei keskinkertainen eikä {adj2}.,neutral,0.53,feedback
+336,Olen järkyttynyt tulokseen.,negative,0.14,social_media
+547,Tuote on odotettavissa oleva.,neutral,0.56,service_review
+592,Odotettavissa oleva lopputulosta.,neutral,0.53,service_review
+583,Kokemus oli standardin mukainen.,neutral,0.52,feedback
+403,Hinta on riittävä vertailussa.,neutral,0.51,service_review
+479,Palvelu oli perus.,neutral,0.54,service_review
+70,"Upea, ystävällinen ja kestävä - täydellinen yhdistelmä!",positive,0.93,social_media
+49,Rakastan kokemukseen. Toimii täydellisesti.,positive,0.93,service_review
+418,Asiakaspalvelu vastasi laatua.,neutral,0.55,social_media
+348,Olen todella pettynyt kokemukseen.,negative,0.16,feedback
+264,En voi kuin kritisoida kokemukseen.,negative,0.18,social_media
+137,Tämä muutti kokemus. Kiitos!,positive,0.84,social_media
+500,Normaali vaihtoehto useimmille.,neutral,0.46,social_media
+149,En voi kuin kehua tähän tuotteeseen.,positive,0.84,feedback
+150,Olen vaikuttunut palveluun.,positive,0.82,social_media
+564,Normaali lopputulosta ilman erikoisuuksia.,neutral,0.55,product_review
+166,Olen hyvin iloinen kokemukseen.,positive,0.85,product_review
+511,Standardin mukainen palvelua.,neutral,0.54,product_review
+276,Tämä on tyytymätön kokemus.,negative,0.12,service_review
+306,En voi kuin harmitella tulokseen.,negative,0.16,social_media
+538,Tuote vastasi laatua.,neutral,0.57,feedback
+273,"Joka kerta kun kritisoida, olen kauhea.",negative,0.14,social_media
+457,Tavallinen vaihtoehto joillekin.,neutral,0.49,service_review
+292,"Joka kerta kun pahoitella, olen pettymys.",negative,0.11,product_review
+31,"Erinomainen, ammattitaitoinen ja edullinen - täydellinen yhdistelmä!",positive,0.87,social_media
+413,Tämä riippuu hintaan nähden.,neutral,0.51,product_review
+447,Laatu toimii riittävästi.,neutral,0.54,service_review
+417,Ei keskinkertainen eikä {adj2}.,neutral,0.49,social_media
+106,Suosittelen ehdottomasti kaikille.,positive,0.85,feedback
+567,Hinta on standardin mukainen.,neutral,0.49,service_review
+72,Tämä on iloinen kokemus!,positive,0.89,social_media
+316,Huonoin kokemus ikinä. Huono valinta.,negative,0.09,social_media
+519,Hinta on standardin mukainen hintaan nähden.,neutral,0.49,feedback
+584,Odotettavissa oleva palvelua.,neutral,0.47,feedback
+324,Kauhea tuote. Huono valinta.,negative,0.1,service_review
+555,Tämä riippuu kilpailijoihin.,neutral,0.5,feedback
+364,Ratkaisu ei vastannut standardejani.,negative,0.2,feedback
+441,Kokemus oli standardin mukainen.,neutral,0.51,service_review
+180,"Joka kerta kun ihailla, olen iloinen.",positive,0.88,service_review
+353,Tämä on pettynyt kokemus.,negative,0.12,product_review
+302,Tämä on pettynyt kokemus.,negative,0.13,service_review
+378,Olen järkyttynyt palveluun.,negative,0.1,feedback
+464,Hinta on keskivertoa.,neutral,0.52,product_review
+108,"Joka kerta kun ylistää, olen huikea.",positive,0.9,feedback
+122,Suosittelen ehdottomasti kaikille tuttuilleni.,positive,0.86,product_review
+416,Tämä riippuu kategoriassaan.,neutral,0.49,product_review
+549,Toimitus on tyypillinen.,neutral,0.54,feedback
+61,Suosittelen ehdottomasti ystävilleni.,positive,0.82,social_media
+444,Hinta on keskinkertainen kategoriassaan.,neutral,0.53,feedback
+225,Tämä on hirveä kokemus.,negative,0.11,social_media
+45,"Joka kerta kun arvostaa, olen huikea.",positive,0.84,product_review
+525,Normaali hintaa ilman erikoisuuksia.,neutral,0.52,social_media
+442,Hinta on standardin mukainen kilpailijoihin.,neutral,0.51,feedback
+179,Tämä on fantastinen kokemus!,positive,0.95,product_review
+135,Tämä on onnellinen kokemus!,positive,0.93,product_review
+513,Ei keskinkertainen eikä {adj2}.,neutral,0.47,service_review
+17,Loistava kokemus! Suosittelen lämpimästi.,positive,0.87,product_review
+448,Kokemus oli perus.,neutral,0.48,social_media
+153,Tämä on onnellinen kokemus!,positive,0.87,product_review
+127,Olen hyvin tyytyväinen tähän tuotteeseen.,positive,0.9,social_media
+385,En suosittele ystävilleni.,negative,0.19,service_review
+335,Tämä pilasi ratkaisu. Ikävää.,negative,0.16,product_review
+425,Odotettavissa oleva palvelua.,neutral,0.51,service_review
+377,Huonoin palvelu ikinä. Huono valinta.,negative,0.15,product_review
+53,Suosittelen ehdottomasti kaikille.,positive,0.82,product_review
+218,Inhoan palveluun. Ei vastannut odotuksia.,negative,0.09,feedback
+112,En voi kuin ihailla tähän tuotteeseen.,positive,0.83,social_media
+280,Olen todella pettynyt ostokseen.,negative,0.17,social_media
+517,En osaa sanoa hintaa.,neutral,0.51,social_media
+369,Tämä pilasi kokemus. Ikävää.,negative,0.1,feedback
+390,Kauhea ratkaisu. En suosittele.,negative,0.14,product_review
+22,Erinomainen tuote. Kannattaa ehdottomasti.,positive,0.93,product_review
+388,Huonoin ratkaisu ikinä. Huono valinta.,negative,0.13,service_review
+495,Kokemus oli riittävä.,neutral,0.48,social_media
+278,Huonoin tuote ikinä. Huono valinta.,negative,0.13,service_review
+553,Toimitus toimii tyydyttävästi.,neutral,0.57,social_media
+422,Laatu on keskinkertainen.,neutral,0.5,social_media
+279,"Joka kerta kun kritisoida, olen kehno.",negative,0.14,social_media
+397,"Surkea, tehoton ja heikko - täydellinen katastrofi.",negative,0.11,social_media
+559,En osaa sanoa hintaa.,neutral,0.52,social_media
+59,Tuote ylitti toiveeni.,positive,0.9,product_review
+294,Kauhea tuote. Huono valinta.,negative,0.1,product_review
+58,Upea laatu ja nopea palvelu!,positive,0.91,service_review
+262,"Huono, huonolaatuinen ja epäluotettava - täydellinen katastrofi.",negative,0.09,product_review
+514,Tämä riippuu kilpailijoihin.,neutral,0.55,social_media
+254,Tämä on pettynyt kokemus.,negative,0.09,service_review
+546,Hinta on keskivertoa.,neutral,0.54,product_review
+396,Inhoan ostokseen. Ei vastannut odotuksia.,negative,0.08,service_review
+381,Olen järkyttynyt kokemukseen.,negative,0.07,service_review
+290,Kauhea tuote. Huono valinta.,negative,0.08,product_review
+235,"Joka kerta kun pahoitella, olen pettymys.",negative,0.16,feedback
+400,Tämä pilasi palvelu. Ikävää.,negative,0.15,feedback
+560,Tuote toimii normaalisti.,neutral,0.47,social_media
+539,Normaali hintaa ilman lisäominaisuuksia.,neutral,0.48,product_review
+231,Olen täysin tyytymätön tähän tuotteeseen.,negative,0.14,service_review
+282,Kamala laatu ja huonolaatuinen palvelu.,negative,0.16,product_review
+34,Loistava laatu ja laadukas palvelu!,positive,0.93,service_review
+300,Valinta ei vastannut standardejani.,negative,0.16,feedback
+226,"Kauhea, epäystävällinen ja kallis - täydellinen katastrofi.",negative,0.14,feedback
+32,Suosittelen ehdottomasti ystävilleni.,positive,0.82,service_review
+85,Kokemus ylitti vaatimukseni.,positive,0.93,social_media
+172,Suosittelen ehdottomasti ystävilleni.,positive,0.88,service_review
+501,Kokemus oli odotettavissa oleva.,neutral,0.51,social_media
+455,Odotettavissa oleva laatua.,neutral,0.49,product_review
+426,Normaali lopputulosta ilman yllätyksiä.,neutral,0.49,social_media
+504,Laatu on keskivertoa.,neutral,0.51,product_review
+419,Palvelu oli kohtuullinen.,neutral,0.46,service_review
+507,Kokemus oli tyypillinen.,neutral,0.48,service_review
+518,En osaa sanoa palvelua.,neutral,0.5,social_media
+394,Olen todella tyytymätön palveluun.,negative,0.11,service_review
+200,Upea laatu ja ammattitaitoinen palvelu!,positive,0.9,social_media
+140,Rakastan tulokseen. Paras valinta.,positive,0.96,feedback
+497,Normaali kuvausta ilman yllätyksiä.,neutral,0.48,product_review
+10,Tämä on uskomaton kokemus!,positive,0.88,social_media
+368,Kauhea kokemus. Huono valinta.,negative,0.07,social_media
+55,Rakastan palveluun. Paras valinta.,positive,0.92,product_review
+462,Standardin mukainen hintaa.,neutral,0.55,feedback
+323,Kamala laatu ja huonolaatuinen palvelu.,negative,0.1,feedback
+578,Tuote toimii kohtuullisesti.,neutral,0.53,service_review
+144,Paras ratkaisu ikinä! Ylitti odotukset.,positive,0.96,service_review
+296,"Hirveä, huonolaatuinen ja vaikea käyttää - täydellinen katastrofi.",negative,0.11,feedback
+571,Tämä riippuu vertailussa.,neutral,0.47,product_review
+171,Olen vaikuttunut kokemukseen.,positive,0.8,service_review
+178,Olen vaikuttunut ostokseen.,positive,0.85,product_review
+499,Kokemus oli tavallinen.,neutral,0.49,service_review
+593,Tuote toimii tyydyttävästi.,neutral,0.48,feedback
+434,Tuote on tyypillinen.,neutral,0.52,product_review
+393,Valinta ei vastannut odotuksiani.,negative,0.19,service_review
+142,Loistava laatu ja ystävällinen palvelu!,positive,0.94,service_review
+429,Asiakaspalvelu vastasi lopputulosta.,neutral,0.5,product_review
+568,Tuote vastasi hintaa.,neutral,0.51,feedback
+524,Hinta on normaali kilpailijoihin.,neutral,0.47,feedback
+145,En voi kuin ihailla palveluun.,positive,0.89,social_media
+383,Tämä on surullinen kokemus.,negative,0.17,social_media
+188,Tuote ylitti toiveeni.,positive,0.89,feedback
+120,Kokemus ylitti standardini.,positive,0.91,feedback
+313,Kauhea tuote. Toimi huonosti.,negative,0.11,social_media
+245,Tämä on kamala kokemus.,negative,0.09,service_review
+121,Suosittelen ehdottomasti jokaiselle.,positive,0.9,product_review
+569,Hinta on riittävä vertailussa.,neutral,0.48,service_review
+138,Olen täysin tyytyväinen kokemukseen.,positive,0.81,social_media
+87,Olen erittäin tyytyväinen ostokseen.,positive,0.82,social_media
+305,"Kamala, hidas ja heikko - täydellinen katastrofi.",negative,0.14,feedback
+177,En voi kuin ylistää tähän tuotteeseen.,positive,0.81,feedback
+599,Tuote on keskivertoa.,neutral,0.52,service_review
+361,Kauhea valinta. En suosittele.,negative,0.11,product_review
+357,Inhoan tähän tuotteeseen. Huono valinta.,negative,0.08,service_review
+573,Odotettavissa oleva laatua.,neutral,0.5,feedback
+402,Hinta on keskivertoa.,neutral,0.5,feedback
+398,Surkea laatu ja hidas palvelu.,negative,0.17,product_review
+321,Olen täysin tyytymätön palveluun.,negative,0.14,product_review
+541,En osaa sanoa lopputulosta.,neutral,0.5,product_review
+502,Kokemus oli standardin mukainen.,neutral,0.54,service_review
+269,Ratkaisu ei vastannut odotuksiani.,negative,0.14,social_media
+117,Mahtava laatu ja ammattitaitoinen palvelu!,positive,0.9,social_media
+469,Hinta on kohtuullinen kilpailijoihin.,neutral,0.48,social_media
+202,Olen järkyttynyt palveluun.,negative,0.11,service_review
+334,Inhoan palveluun. Toimi huonosti.,negative,0.12,product_review
+375,Tämä pilasi ratkaisu. Ikävää.,negative,0.16,social_media
+192,Olen vaikuttunut palveluun.,positive,0.82,product_review
+550,Toimitus on keskivertoa.,neutral,0.48,service_review
+105,Rakastan tulokseen. Kannattaa ehdottomasti.,positive,0.91,service_review
+65,Rakastan ostokseen. Ylitti odotukset.,positive,0.99,social_media
+286,Inhoan palveluun. Ei vastannut odotuksia.,negative,0.1,social_media
+211,Surkea laatu ja hidas palvelu.,negative,0.15,service_review
+220,Tämä pilasi kokemus. Ikävää.,negative,0.12,product_review
+5,Fantastinen valinta! Suosittelen lämpimästi.,positive,0.86,product_review
+399,Tämä on huono kokemus.,negative,0.16,social_media
+440,Hinta on keskivertoa.,neutral,0.51,service_review
+461,Standardin mukainen laatua.,neutral,0.49,feedback
+203,Hirveä laatu ja hidas palvelu.,negative,0.12,feedback
+30,"Joka kerta kun ylistää, olen erinomainen.",positive,0.92,product_review
+406,Asiakaspalvelu vastasi laatua.,neutral,0.57,service_review
+443,Laatu toimii riittävästi.,neutral,0.53,social_media
+191,Suosittelen ehdottomasti kaikille tuttuilleni.,positive,0.81,service_review
+189,Tämä muutti ratkaisu. Kiitos!,positive,0.91,service_review
+415,Kokemus oli odotettavissa oleva.,neutral,0.45,social_media
+238,Olen äärimmäisen pettynyt tulokseen.,negative,0.11,social_media
+474,Toimitus toimii kohtuullisesti.,neutral,0.49,service_review
+437,Ei tavallinen eikä {adj2}.,neutral,0.52,service_review
+574,Ei normaali eikä {adj2}.,neutral,0.48,service_review
+339,Hirveä laatu ja epäystävällinen palvelu.,negative,0.18,feedback

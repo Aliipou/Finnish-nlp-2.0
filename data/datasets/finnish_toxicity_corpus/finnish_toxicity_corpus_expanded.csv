@@ -1,0 +1,1201 @@
+id,text,is_toxic,severity,toxicity_score,category,source
+468,Kirjoitus oli mukava ja nopea.,0,0,0.29,none,review
+249,Hienoa idea! Kokeilen varmasti.,0,0,-0.03,none,social_media
+741,Perkele kun onnistuu!,1,1,0.45,profanity,social_media
+334,Hienoa työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+1015,Paska idea.,1,1,0.67,profanity,forum
+1089,Kusipää käyttäjälle.,1,1,0.65,insult,review
+214,En suosittelisi kenellekään.,0,0,0.25,none,review
+1132,Saatanan tyhmä.,1,1,0.84,insult,social_media
+344,Tämä auttoi minua paljon. Kiitos!,0,0,0.05,none,forum
+115,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.02,none,forum
+958,Helvetti saatana miksi palveluun ei onnistui!,1,1,0.7,profanity,forum
+433,Nopea luvattu ja laadukas ostokseen.,0,0,0.06,none,review
+502,Tämä ei vastannut tuotteeseen.,0,0,0.13,none,review
+269,Hieno idea! Kokeilen varmasti.,0,0,0.01,none,social_media
+550,Hyvä hinta-laatusuhde ostokseen.,0,0,-0.01,none,review
+742,Perkele kun toimii!,1,1,0.48,profanity,social_media
+985,Vittu että onnistui suuresti.,1,1,0.82,profanity,forum
+930,Helvetti saatana miksi luvattu ei onnistuu!,1,1,0.68,profanity,forum
+464,Mahtava työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+582,Tämä ei vastannut tuotteeseen.,0,0,0.11,none,review
+1165,Nämä ihmiset ovat erinomainen.,1,1,0.76,hate_speech,forum
+160,Kiitos kun jaoit tämän. Erinomainen!,0,0,0.05,none,forum
+190,Hienoa kokemus alusta loppuun.,0,0,0.02,none,review
+1161,He ovat hieno.,1,1,0.68,hate_speech,forum
+392,Erinomainen palveluun. Kiitos!,0,0,0.01,none,review
+1102,Helvetin tyhmä.,1,1,0.84,insult,social_media
+87,Kiitos paljon asiakaspalvelu. Arvostan sitä todella.,0,0,-0.03,none,social_media
+130,Loistava kokemus valitettavasti.,0,0,0.2,none,review
+950,Tämä on täyttä idea.,1,1,0.67,profanity,forum
+230,Erinomainen idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+568,Erinomainen kokemus alusta loppuun.,0,0,0.04,none,review
+1129,Helvetin ääliö.,1,1,0.87,insult,social_media
+995,Vittu että toimii todella.,1,1,0.8,profanity,forum
+1039,Mulkku.,1,1,0.59,insult,social_media
+1177,Inhoan sinua.,1,1,0.52,hate_speech,review
+900,Vittu mikä paska asiakaspalvelu.,1,1,0.89,profanity,review
+232,En suosittelisi kanssasi.,0,0,0.26,none,review
+420,Suosittelen tätä tuotetta.,0,0,0.03,none,review
+13,Kiitos erittäin auringosta. Arvostan sitä suuresti.,0,0,0.06,none,social_media
+310,Kaunis työtä! Jatka samaan malliin.,0,0,0.02,none,social_media
+924,Vittu että toimii suuresti.,1,1,0.8,profanity,forum
+316,Tämä ei vastannut tuotteeseen.,0,0,0.11,none,review
+304,Artikkeli on todella erinomainen. Opin paljon.,0,0,0.07,none,forum
+26,Kaunis viikonloppua tänään. Nauti palveluun!,0,0,0.05,none,social_media
+308,Olen tyytyväinen asiakaspalvelu.,0,0,0.05,none,review
+463,Erinomainen toimitus. Kiitos!,0,0,0.06,none,review
+601,Olen tyytyväinen luvattu.,0,0,0.0,none,review
+724,Helvetti perkele miksi tämä ei toimi!,1,1,0.4,profanity,forum
+85,En suosittelisi kenellekään.,0,0,0.24,none,review
+341,Suosittelen tätä ostokseen.,0,0,-0.03,none,review
+671,Suosittelen tätä palvelu.,0,0,0.04,none,review
+853,Hitto että onnistui.,1,1,0.39,profanity,social_media
+452,Kamala työtä! Jatka samaan malliin.,0,0,0.01,none,social_media
+251,Tämä ei vastannut asiakaspalvelu.,0,0,0.08,none,review
+772,Perkele kun onnistui!,1,1,0.43,profanity,social_media
+895,Paska suunnitelma.,1,1,0.7,profanity,forum
+76,Palvelu on todella mahtava. Opin paljon.,0,0,0.04,none,forum
+201,Erinomainen työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+1034,Kusipää.,1,1,0.59,insult,social_media
+1028,Vittu että onnistui paljon.,1,1,0.86,profanity,forum
+119,Erinomainen auringosta. Kiitos!,0,0,0.0,none,review
+719,Hyvä hinta-laatusuhde palvelu.,0,0,0.01,none,review
+10,Huono idea! Kokeilen varmasti.,0,0,-0.03,none,social_media
+946,Helvetti saatana miksi avustasi ei toimii!,1,1,0.69,profanity,forum
+30,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.05,none,forum
+591,Suosittelen tätä palvelu.,0,0,0.01,none,review
+57,Erinomainen auringosta. Kiitos!,0,0,0.01,none,review
+322,Toimii juuri kuten luvattu.,0,0,-0.03,none,review
+426,En suosittelisi kenellekään.,0,0,0.23,none,review
+801,Hitto että oli loistava mutta onnistuu.,1,1,0.39,profanity,forum
+510,Hyvä hinta-laatusuhde tuotetta.,0,0,-0.02,none,review
+1110,Saatanan tyhmä.,1,1,0.82,insult,social_media
+785,Perkele tämä on hyvä.,1,1,0.45,profanity,forum
+966,Saatanan erinomainen idea.,1,1,0.76,profanity,forum
+357,Huono kokemus valitettavasti.,0,0,0.15,none,review
+668,Hyvää iltaa! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.01,none,social_media
+503,Kirjoitus on todella loistava. Opin paljon.,0,0,0.02,none,forum
+539,Toimii juuri kuten avustasi.,0,0,0.0,none,review
+163,Kiitos todella odotuksiani. Arvostan sitä suuresti.,0,0,0.05,none,social_media
+273,Kiitos kun jaoit tämän. Hieno!,0,0,0.06,none,forum
+1126,Ole hiljaa senkin idiootti.,1,1,0.68,insult,social_media
+546,Huono huomenta tänään. Nauti asiakaspalvelu!,0,0,-0.04,none,social_media
+704,Hienoa idea! Kokeilen varmasti.,0,0,-0.02,none,social_media
+254,Olen tyytyväinen asiakaspalvelu.,0,0,0.05,none,review
+779,Saatana mikä sekoilu.,1,1,0.44,profanity,social_media
+305,Kiitos kun jaoit tämän. Huono!,0,0,0.01,none,forum
+445,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.05,none,forum
+845,Hitto että toimii.,1,1,0.4,profanity,social_media
+1087,Helvetin idiootti.,1,1,0.86,insult,social_media
+24,Tämä ei vastannut auringosta.,0,0,0.14,none,review
+358,Loistava työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+1072,Senkin tyhmä.,1,1,0.74,insult,social_media
+808,Saatana mikä onni.,1,1,0.44,profanity,social_media
+874,Paska paska.,1,1,0.66,profanity,forum
+993,Vittu mikä juttu avustasi.,1,1,0.84,profanity,review
+338,Hyvää päivää! Toivottavasti sinulla on ääliömäinen päivä.,0,0,0.04,none,social_media
+501,Paras kokemus valitettavasti.,0,0,0.18,none,review
+822,Helvetti että onnistuu paljon!,1,1,0.4,profanity,social_media
+648,Tämä ei vastannut toimitus.,0,0,0.09,none,review
+246,Hyvää viikonloppua! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.03,none,social_media
+965,Paska onni.,1,1,0.72,profanity,forum
+774,Saatana mikä palvelu.,1,1,0.46,profanity,social_media
+803,Saatana mikä idea.,1,1,0.48,profanity,social_media
+1065,Hienoa tuotteeseen.,1,1,0.49,insult,forum
+376,Hyvä hinta-laatusuhde tuote.,0,0,-0.02,none,review
+475,Erinomainen auringosta. Kiitos!,0,0,-0.01,none,review
+885,Jumalauta mikä idea.,1,1,0.58,profanity,forum
+390,Kiitos kun jaoit tämän. Huono!,0,0,-0.02,none,forum
+428,Erinomainen toimitus. Kiitos!,0,0,-0.04,none,review
+762,Perkele tämä on vaikea.,1,1,0.45,profanity,forum
+29,Olen suuresti pettynyt tähän auringosta.,0,0,0.17,none,review
+1029,Tämä on täyttä sekoilu.,1,1,0.66,profanity,forum
+107,Hyvää päivää! Toivottavasti sinulla on haasteellinen päivä.,0,0,-0.02,none,social_media
+720,Palvelu on todella hyvä. Opin paljon.,0,0,0.01,none,forum
+83,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.0,none,forum
+329,Mahtava huomenta tänään. Nauti auringosta!,0,0,-0.03,none,social_media
+331,Kamala kokemus alusta loppuun.,0,0,-0.01,none,review
+1123,Ääliö käyttäjälle.,1,1,0.64,insult,review
+820,Saatana mikä suunnitelma.,1,1,0.48,profanity,social_media
+780,Perkele tämä on monimutkainen.,1,1,0.41,profanity,forum
+906,Tämä on täyttä palvelu.,1,1,0.67,profanity,forum
+880,Helvetti saatana miksi toimitus ei meni pieleen!,1,1,0.68,profanity,forum
+783,Perkele tämä on ääliömäinen.,1,1,0.46,profanity,forum
+53,Toimii juuri kuten asiakaspalvelu.,0,0,0.0,none,review
+627,Tämä ei vastannut tuotteeseen.,0,0,0.14,none,review
+223,Erinomainen kokemus alusta loppuun.,0,0,0.03,none,review
+682,Tämä auttoi minua erittäin. Kiitos!,0,0,-0.02,none,forum
+1160,Vihaan sinua.,1,1,0.74,hate_speech,social_media
+443,Toimii juuri kuten odotuksiani.,0,0,-0.0,none,review
+884,Vittu mikä onni avustasi.,1,1,0.88,profanity,review
+286,Hyvää viikonloppua! Toivottavasti sinulla on monimutkainen päivä.,0,0,0.03,none,social_media
+991,Helvetti saatana miksi odotuksiani ei ärsyttää!,1,1,0.64,profanity,forum
+955,Saatanan vaikea paska.,1,1,0.76,profanity,forum
+123,Nopea toimitus ja laadukas tuotetta.,0,0,0.03,none,review
+126,Erinomainen kokemus alusta loppuun.,0,0,-0.02,none,review
+860,Hitto että toimii.,1,1,0.42,profanity,social_media
+158,Kiitos kun jaoit tämän. Paras!,0,0,-0.01,none,forum
+312,Hieno kokemus alusta loppuun.,0,0,0.02,none,review
+74,Nopea luvattu ja laadukas tuotetta.,0,0,-0.01,none,review
+156,Hyvää päivää! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.03,none,social_media
+863,Perkele kun onnistuu!,1,1,0.43,profanity,social_media
+459,Toimii juuri kuten auringosta.,0,0,0.03,none,review
+636,Tuote on todella upea. Opin paljon.,0,0,-0.02,none,forum
+755,Helvetti että toimi suuresti!,1,1,0.45,profanity,social_media
+824,Perkele tämä on ääliömäinen.,1,1,0.48,profanity,forum
+193,Erinomainen kokemus alusta loppuun.,0,0,0.03,none,review
+1135,Helvetin tyhmä.,1,1,0.82,insult,social_media
+713,Tämä ei vastannut asiakaspalvelu.,0,0,0.08,none,review
+497,Tämä ei vastannut auringosta.,0,0,0.16,none,review
+715,En suosittelisi asiakkaalle.,0,0,0.26,none,review
+1049,Senkin typerys.,1,1,0.78,insult,social_media
+1003,Vittu että onnistuu suuresti.,1,1,0.85,profanity,forum
+1098,Ääliö kanssasi.,1,1,0.65,insult,review
+811,Hitto että oli erinomainen mutta ärsyttää.,1,1,0.39,profanity,forum
+577,Olen tyytyväinen tuotteeseen.,0,0,-0.02,none,review
+790,Helvetti että onnistuu erittäin!,1,1,0.44,profanity,social_media
+918,Helvetti saatana miksi auringosta ei meni pieleen!,1,1,0.72,profanity,forum
+137,Kamala idea! Kokeilen varmasti.,0,0,0.04,none,social_media
+881,Tämä on täyttä palvelu.,1,1,0.72,profanity,forum
+706,Täydellinen kokemus valitettavasti.,0,0,0.14,none,review
+942,Vittu että onnistui suuresti.,1,1,0.85,profanity,forum
+255,Loistava työtä! Jatka samaan malliin.,0,0,0.01,none,social_media
+700,Kaunis päivää tänään. Nauti luvattu!,0,0,-0.03,none,social_media
+1186,Nämä ihmiset ovat idiootti.,1,1,0.71,hate_speech,forum
+152,Olen tyytyväinen asiakaspalvelu.,0,0,0.02,none,review
+46,Loistava kokemus alusta loppuun.,0,0,-0.03,none,review
+875,Vittu että toimi paljon.,1,1,0.78,profanity,forum
+441,Hienoa kokemus alusta loppuun.,0,0,0.05,none,review
+382,Olen suuresti pettynyt tähän luvattu.,0,0,0.14,none,review
+290,Hyvä hinta-laatusuhde tuotetta.,0,0,0.06,none,review
+725,Perkele kun onnistuu!,1,1,0.47,profanity,social_media
+841,Saatana mikä palvelu.,1,1,0.42,profanity,social_media
+120,Hyvää iltaa! Toivottavasti sinulla on monimutkainen päivä.,0,0,-0.02,none,social_media
+1057,Ääliö.,1,1,0.54,insult,social_media
+1114,Täydellinen asiakaspalvelu.,1,1,0.47,insult,forum
+961,Helvetti saatana miksi asiakaspalvelu ei meni pieleen!,1,1,0.72,profanity,forum
+1195,Vihaan tätä paikkaa.,1,1,0.74,hate_speech,social_media
+9,En suosittelisi asiakkaalle.,0,0,0.25,none,review
+505,Tämä auttoi minua paljon. Kiitos!,0,0,-0.02,none,forum
+761,Helvetti saatana miksi tämä ei ärsyttää!,1,1,0.44,profanity,forum
+879,Paska sekoilu.,1,1,0.7,profanity,forum
+34,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.05,none,forum
+555,Tuote oli vaikea ja epäystävällinen.,0,0,0.25,none,review
+413,Suosittelen tätä ostokseen.,0,0,-0.03,none,review
+1060,Senkin idiootti.,1,1,0.77,insult,social_media
+1018,Jumalauta mikä sekoilu.,1,1,0.65,profanity,forum
+64,Tämä ei vastannut toimitus.,0,0,0.09,none,review
+512,Olen suuresti pettynyt tähän auringosta.,0,0,0.13,none,review
+609,Kamala idea! Kokeilen varmasti.,0,0,-0.0,none,social_media
+969,Vittu mikä sekoilu avustasi.,1,1,0.86,profanity,review
+333,Tämä auttoi minua paljon. Kiitos!,0,0,0.04,none,forum
+1041,Saatanan ääliö.,1,1,0.86,insult,social_media
+628,Toimii juuri kuten palveluun.,0,0,-0.02,none,review
+867,Vittu mikä idea asiakaspalvelu.,1,1,0.83,profanity,review
+393,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,0.06,none,forum
+1194,He ovat tyhmä.,1,1,0.7,hate_speech,forum
+381,Kiitos kun jaoit tämän. Huono!,0,0,0.04,none,forum
+948,Saatanan ääliömäinen paska.,1,1,0.68,profanity,forum
+336,En suosittelisi kanssasi.,0,0,0.24,none,review
+478,Paras idea! Kokeilen varmasti.,0,0,0.0,none,social_media
+198,Hieno kokemus alusta loppuun.,0,0,0.03,none,review
+348,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.01,none,forum
+14,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,-0.0,none,forum
+1154,Nämä ihmiset ovat hyvä.,1,1,0.71,hate_speech,forum
+335,Olen erittäin pettynyt tähän palveluun.,0,0,0.15,none,review
+435,Olen paljon pettynyt tähän asiakaspalvelu.,0,0,0.18,none,review
+882,Helvetti saatana miksi luvattu ei onnistui!,1,1,0.7,profanity,forum
+1120,Mulkku.,1,1,0.56,insult,social_media
+746,Perkele kun toimi!,1,1,0.45,profanity,social_media
+224,Hieno idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+935,Vittu mikä palvelu avustasi.,1,1,0.88,profanity,review
+456,Tämä on todella paha. Opin paljon.,0,0,0.08,none,forum
+891,Paska idea.,1,1,0.63,profanity,forum
+1166,Vihaan heitä.,1,1,0.77,hate_speech,social_media
+585,Kiitos paljon odotuksiani. Arvostan sitä suuresti.,0,0,0.06,none,social_media
+964,Jumalauta mikä idea.,1,1,0.57,profanity,forum
+717,Tuote on todella vaikea. Opin paljon.,0,0,0.03,none,forum
+61,Kiitos kun jaoit tämän. Kaunis!,0,0,-0.01,none,forum
+323,Olen tyytyväinen odotuksiani.,0,0,0.07,none,review
+33,Olen tyytyväinen tuotteeseen.,0,0,0.02,none,review
+1001,Helvetti saatana miksi palveluun ei toimii!,1,1,0.72,profanity,forum
+1151,Helvetin ääliö.,1,1,0.83,insult,social_media
+1188,Inhoan heitä.,1,1,0.54,hate_speech,review
+940,Vittu mikä suunnitelma odotuksiani.,1,1,0.84,profanity,review
+1113,Senkin tyhmä.,1,1,0.7,insult,social_media
+630,Kaunis kokemus alusta loppuun.,0,0,0.04,none,review
+280,Kiitos todella luvattu. Arvostan sitä todella.,0,0,0.01,none,social_media
+472,Hienoa työtä! Jatka samaan malliin.,0,0,-0.0,none,social_media
+1062,Typerys kenellekään.,1,1,0.65,insult,review
+319,Olen tyytyväinen avustasi.,0,0,0.04,none,review
+221,Tämä on todella hyvä. Opin paljon.,0,0,0.02,none,forum
+681,Olen todella pettynyt tähän auringosta.,0,0,0.1,none,review
+904,Saatanan monimutkainen suunnitelma.,1,1,0.73,profanity,forum
+540,Huono kokemus valitettavasti.,0,0,0.15,none,review
+70,Tämä on todella hyvä. Opin paljon.,0,0,0.04,none,forum
+1084,Ääliö asiakkaalle.,1,1,0.62,insult,review
+655,En suosittelisi kanssasi.,0,0,0.26,none,review
+155,Kamala päivää tänään. Nauti asiakaspalvelu!,0,0,0.02,none,social_media
+1140,Ääliö.,1,1,0.61,insult,social_media
+1086,Senkin typerys.,1,1,0.76,insult,social_media
+914,Helvetti saatana miksi asiakaspalvelu ei ärsyttää!,1,1,0.72,profanity,forum
+168,En suosittelisi kanssasi.,0,0,0.25,none,review
+538,Olen tyytyväinen luvattu.,0,0,0.05,none,review
+81,En suosittelisi kanssasi.,0,0,0.24,none,review
+532,Hyvä hinta-laatusuhde kokemus.,0,0,-0.04,none,review
+666,Toimii juuri kuten luvattu.,0,0,0.0,none,review
+769,Perkele tämä on mukava.,1,1,0.43,profanity,forum
+21,Paras kokemus valitettavasti.,0,0,0.15,none,review
+1064,Ole hiljaa senkin ääliö.,1,1,0.71,insult,social_media
+485,Paras idea! Kokeilen varmasti.,0,0,-0.0,none,social_media
+1083,Typerys asiakkaalle.,1,1,0.7,insult,review
+455,Tämä auttoi minua erittäin. Kiitos!,0,0,0.04,none,forum
+1172,He ovat kamala.,1,1,0.75,hate_speech,forum
+1197,Vihaan tätä.,1,1,0.74,hate_speech,social_media
+1158,Inhoan tätä.,1,1,0.55,hate_speech,review
+302,Erinomainen työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+862,Perkele tämä on kamala.,1,1,0.49,profanity,forum
+960,Paska paska.,1,1,0.71,profanity,forum
+307,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.01,none,forum
+522,Kiitos erittäin toimitus. Arvostan sitä erittäin.,0,0,0.02,none,social_media
+656,Nopea odotuksiani ja laadukas kokemus.,0,0,-0.02,none,review
+981,Saatanan paha sekoilu.,1,1,0.74,profanity,forum
+453,Kirjoitus oli vaikea ja hidas.,0,0,0.24,none,review
+729,Perkele tämä on kamala.,1,1,0.5,profanity,forum
+988,Paska paska.,1,1,0.65,profanity,forum
+583,Hienoa työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+342,Täydellinen iltaa tänään. Nauti luvattu!,0,0,0.06,none,social_media
+610,Tämä ei vastannut toimitus.,0,0,0.15,none,review
+877,Vittu mikä suunnitelma auringosta.,1,1,0.87,profanity,review
+355,Tämä auttoi minua paljon. Kiitos!,0,0,0.07,none,forum
+102,Paras idea! Kokeilen varmasti.,0,0,-0.01,none,social_media
+915,Vittu että toimii suuresti.,1,1,0.77,profanity,forum
+63,Erinomainen idea! Kokeilen varmasti.,0,0,0.0,none,social_media
+1155,Inhoan tätä.,1,1,0.56,hate_speech,review
+528,En suosittelisi käyttäjälle.,0,0,0.19,none,review
+177,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.07,none,forum
+467,Olen erittäin pettynyt tähän asiakaspalvelu.,0,0,0.13,none,review
+279,Hyvä hinta-laatusuhde tuote.,0,0,-0.04,none,review
+674,Tämä ei vastannut toimitus.,0,0,0.09,none,review
+480,Kiitos paljon asiakaspalvelu. Arvostan sitä todella.,0,0,0.02,none,social_media
+957,Vittu että toimii todella.,1,1,0.86,profanity,forum
+320,Nopea toimitus ja laadukas kokemus.,0,0,0.06,none,review
+50,Olen tyytyväinen toimitus.,0,0,-0.01,none,review
+414,Kirjoitus oli huono ja epäystävällinen.,0,0,0.21,none,review
+687,Erinomainen kokemus alusta loppuun.,0,0,0.03,none,review
+1121,Saatanan tyhmä.,1,1,0.8,insult,social_media
+31,Suosittelen tätä tuote.,0,0,-0.01,none,review
+834,Hitto että oli vaikea mutta onnistuu.,1,1,0.37,profanity,forum
+1051,Ole hiljaa senkin idiootti.,1,1,0.69,insult,social_media
+519,Hyvää viikonloppua! Toivottavasti sinulla on monimutkainen päivä.,0,0,0.02,none,social_media
+25,Tämä auttoi minua suuresti. Kiitos!,0,0,0.01,none,forum
+598,Tämä on todella kamala. Opin paljon.,0,0,-0.0,none,forum
+712,Erinomainen asiakaspalvelu. Kiitos!,0,0,0.0,none,review
+461,Kirjoitus oli upea ja ammattitaitoinen.,0,0,0.21,none,review
+1128,Helvetin tyhmä.,1,1,0.83,insult,social_media
+689,Kiitos kun jaoit tämän. Huono!,0,0,0.02,none,forum
+406,Kiitos suuresti odotuksiani. Arvostan sitä todella.,0,0,0.03,none,social_media
+1179,Vihaan heitä.,1,1,0.77,hate_speech,social_media
+429,Toimii juuri kuten odotuksiani.,0,0,0.06,none,review
+944,Paska juttu.,1,1,0.65,profanity,forum
+328,En suosittelisi kanssasi.,0,0,0.2,none,review
+695,Kiitos erittäin luvattu. Arvostan sitä suuresti.,0,0,0.07,none,social_media
+1175,Vihaan sinua.,1,1,0.81,hate_speech,social_media
+1104,Täydellinen auringosta.,1,1,0.44,insult,forum
+243,Kiitos kun jaoit tämän. Huono!,0,0,-0.03,none,forum
+77,Hieno kokemus valitettavasti.,0,0,0.14,none,review
+899,Vittu mikä sekoilu tuotteeseen.,1,1,0.88,profanity,review
+1009,Vittu mikä paska asiakaspalvelu.,1,1,0.83,profanity,review
+612,Tuote on todella idiootti. Opin paljon.,0,0,0.05,none,forum
+799,Hitto että oli vaikea mutta meni pieleen.,1,1,0.39,profanity,forum
+285,Erinomainen huomenta tänään. Nauti toimitus!,0,0,0.01,none,social_media
+963,Saatanan huono palvelu.,1,1,0.74,profanity,forum
+139,Hienoa työtä! Jatka samaan malliin.,0,0,-0.01,none,social_media
+511,Paras kokemus alusta loppuun.,0,0,0.05,none,review
+396,Nopea tuotteeseen ja laadukas ostokseen.,0,0,-0.02,none,review
+575,Loistava työtä! Jatka samaan malliin.,0,0,-0.02,none,social_media
+68,Huono työtä! Jatka samaan malliin.,0,0,0.05,none,social_media
+1106,Ole hiljaa senkin ääliö.,1,1,0.7,insult,social_media
+793,Helvetti perkele miksi tämä ei onnistui!,1,1,0.39,profanity,forum
+231,Olen tyytyväinen toimitus.,0,0,0.01,none,review
+757,Helvetti saatana miksi tämä ei onnistuu!,1,1,0.42,profanity,forum
+206,Kaunis viikonloppua tänään. Nauti palveluun!,0,0,0.02,none,social_media
+654,Nopea avustasi ja laadukas palvelu.,0,0,-0.0,none,review
+763,Perkele kun onnistui!,1,1,0.42,profanity,social_media
+215,Kiitos kun jaoit tämän. Hienoa!,0,0,0.06,none,forum
+387,Erinomainen toimitus. Kiitos!,0,0,0.04,none,review
+1021,Jumalauta mikä palvelu.,1,1,0.62,profanity,forum
+438,Olen todella pettynyt tähän palveluun.,0,0,0.11,none,review
+95,Nopea odotuksiani ja laadukas tuote.,0,0,-0.0,none,review
+188,Olen suuresti pettynyt tähän odotuksiani.,0,0,0.12,none,review
+490,Tämä ei vastannut palveluun.,0,0,0.1,none,review
+856,Perkele tämä on mukava.,1,1,0.47,profanity,forum
+242,Erinomainen työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+409,Erinomainen avustasi. Kiitos!,0,0,-0.02,none,review
+560,Nopea asiakaspalvelu ja laadukas ostokseen.,0,0,0.04,none,review
+570,Tämä ei vastannut auringosta.,0,0,0.1,none,review
+825,Saatana mikä palvelu.,1,1,0.41,profanity,social_media
+624,Erinomainen tuotteeseen. Kiitos!,0,0,0.04,none,review
+544,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.01,none,forum
+905,Vittu että toimii todella.,1,1,0.86,profanity,forum
+911,Vittu että toimi todella.,1,1,0.78,profanity,forum
+167,Olen tyytyväinen luvattu.,0,0,-0.01,none,review
+1150,Senkin ääliö.,1,1,0.73,insult,social_media
+798,Perkele tämä on tyhmä.,1,1,0.41,profanity,forum
+195,Toimii juuri kuten asiakaspalvelu.,0,0,0.06,none,review
+108,Olen tyytyväinen avustasi.,0,0,-0.02,none,review
+346,Täydellinen kokemus alusta loppuun.,0,0,-0.01,none,review
+748,Hitto että oli huono mutta onnistuu.,1,1,0.31,profanity,forum
+427,Kamala huomenta tänään. Nauti tuotteeseen!,0,0,0.04,none,social_media
+400,Palvelu oli huono ja hidas.,0,0,0.21,none,review
+1066,Ääliö asiakkaalle.,1,1,0.69,insult,review
+506,Suosittelen tätä tuote.,0,0,0.0,none,review
+389,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,0.01,none,forum
+728,Saatana mikä sekoilu.,1,1,0.46,profanity,social_media
+479,Toimii juuri kuten asiakaspalvelu.,0,0,-0.01,none,review
+352,Toimii juuri kuten tuotteeseen.,0,0,0.02,none,review
+830,Saatana mikä onni.,1,1,0.43,profanity,social_media
+849,Perkele tämä on loistava.,1,1,0.49,profanity,forum
+902,Jumalauta mikä onni.,1,1,0.58,profanity,forum
+669,Nopea luvattu ja laadukas tuotetta.,0,0,-0.0,none,review
+277,Tämä on todella tyhmä. Opin paljon.,0,0,0.06,none,forum
+518,Täydellinen kokemus valitettavasti.,0,0,0.19,none,review
+871,Vittu mikä palvelu odotuksiani.,1,1,0.82,profanity,review
+541,Tämä ei vastannut auringosta.,0,0,0.08,none,review
+28,Kiitos kun jaoit tämän. Kamala!,0,0,0.07,none,forum
+1100,Typerys asiakkaalle.,1,1,0.67,insult,review
+296,Toimii juuri kuten odotuksiani.,0,0,0.02,none,review
+114,Suosittelen tätä ostokseen.,0,0,-0.01,none,review
+204,Hyvä hinta-laatusuhde tuote.,0,0,0.03,none,review
+1149,Saatanan idiootti.,1,1,0.86,insult,social_media
+262,Tämä ei vastannut asiakaspalvelu.,0,0,0.12,none,review
+562,Olen todella pettynyt tähän odotuksiani.,0,0,0.2,none,review
+252,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.06,none,forum
+141,Olen paljon pettynyt tähän toimitus.,0,0,0.13,none,review
+876,Vittu että onnistuu suuresti.,1,1,0.82,profanity,forum
+962,Tämä on täyttä sekoilu.,1,1,0.67,profanity,forum
+1037,Mulkku.,1,1,0.58,insult,social_media
+1093,Helvetin ääliö.,1,1,0.84,insult,social_media
+191,Hienoa työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+1007,Helvetti saatana miksi palveluun ei toimi!,1,1,0.67,profanity,forum
+22,Täydellinen työtä! Jatka samaan malliin.,0,0,0.05,none,social_media
+278,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,-0.01,none,forum
+4,En suosittelisi kanssasi.,0,0,0.23,none,review
+564,Erinomainen toimitus. Kiitos!,0,0,0.05,none,review
+859,Perkele tämä on ääliömäinen.,1,1,0.46,profanity,forum
+847,Saatana mikä sekoilu.,1,1,0.5,profanity,social_media
+929,Helvetti saatana miksi luvattu ei onnistui!,1,1,0.64,profanity,forum
+1027,Saatanan erinomainen paska.,1,1,0.76,profanity,forum
+62,Hyvää viikonloppua! Toivottavasti sinulla on haasteellinen päivä.,0,0,0.05,none,social_media
+796,Perkele kun meni pieleen!,1,1,0.44,profanity,social_media
+733,Perkele kun onnistui!,1,1,0.45,profanity,social_media
+1022,Tämä on täyttä idea.,1,1,0.67,profanity,forum
+317,Toimii juuri kuten asiakaspalvelu.,0,0,0.02,none,review
+571,Huono kokemus valitettavasti.,0,0,0.17,none,review
+104,Nopea asiakaspalvelu ja laadukas palvelu.,0,0,-0.01,none,review
+576,Tämä ei vastannut auringosta.,0,0,0.16,none,review
+749,Hitto että meni pieleen.,1,1,0.35,profanity,social_media
+1174,Vihaan heitä.,1,1,0.82,hate_speech,social_media
+124,Hyvä hinta-laatusuhde ostokseen.,0,0,0.03,none,review
+1081,Mulkku.,1,1,0.56,insult,social_media
+606,Hyvä hinta-laatusuhde tuote.,0,0,0.02,none,review
+673,Toimii juuri kuten tuotteeseen.,0,0,-0.03,none,review
+504,Huono työtä! Jatka samaan malliin.,0,0,0.0,none,social_media
+256,Kamala viikonloppua tänään. Nauti odotuksiani!,0,0,0.01,none,social_media
+98,Hyvää huomenta! Toivottavasti sinulla on huono päivä.,0,0,0.04,none,social_media
+350,Hieno työtä! Jatka samaan malliin.,0,0,-0.03,none,social_media
+947,Helvetti saatana miksi auringosta ei onnistuu!,1,1,0.67,profanity,forum
+967,Tämä on täyttä palvelu.,1,1,0.74,profanity,forum
+1163,Vihaan heitä.,1,1,0.81,hate_speech,social_media
+1017,Vittu että meni pieleen suuresti.,1,1,0.8,profanity,forum
+640,Paras kokemus valitettavasti.,0,0,0.19,none,review
+631,Hyvä hinta-laatusuhde kokemus.,0,0,0.03,none,review
+968,Vittu että onnistui todella.,1,1,0.81,profanity,forum
+244,Kirjoitus on todella huono. Opin paljon.,0,0,0.01,none,forum
+92,Kamala päivää tänään. Nauti luvattu!,0,0,0.02,none,social_media
+1076,Helvetin ääliö.,1,1,0.83,insult,social_media
+537,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,-0.02,none,forum
+176,Palvelu oli huono ja epäystävällinen.,0,0,0.28,none,review
+384,Suosittelen tätä ostokseen.,0,0,0.0,none,review
+345,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,0.01,none,forum
+205,Kaunis iltaa tänään. Nauti avustasi!,0,0,0.02,none,social_media
+753,Perkele kun ärsyttää!,1,1,0.44,profanity,social_media
+1156,Vihaan tätä.,1,1,0.81,hate_speech,social_media
+1139,Senkin tyhmä.,1,1,0.74,insult,social_media
+1038,Täydellinen palveluun.,1,1,0.44,insult,forum
+1045,Helvetin typerys.,1,1,0.79,insult,social_media
+861,Hitto että meni pieleen.,1,1,0.42,profanity,social_media
+275,Tämä oli ääliömäinen ja ammattitaitoinen.,0,0,0.26,none,review
+675,Tämä ei vastannut avustasi.,0,0,0.12,none,review
+181,Hieno kokemus alusta loppuun.,0,0,-0.01,none,review
+759,Saatana mikä juttu.,1,1,0.44,profanity,social_media
+626,Kiitos kun jaoit tämän. Täydellinen!,0,0,-0.02,none,forum
+513,Kirjoitus oli haasteellinen ja hidas.,0,0,0.26,none,review
+912,Helvetti saatana miksi asiakaspalvelu ei onnistuu!,1,1,0.73,profanity,forum
+360,Olen tyytyväinen odotuksiani.,0,0,0.05,none,review
+831,Helvetti perkele miksi tämä ei toimi!,1,1,0.4,profanity,forum
+113,Hyvää huomenta! Toivottavasti sinulla on paha päivä.,0,0,0.0,none,social_media
+936,Helvetti saatana miksi tuotteeseen ei onnistui!,1,1,0.71,profanity,forum
+325,Kirjoitus oli mahtava ja epäystävällinen.,0,0,0.22,none,review
+196,Tämä ei vastannut luvattu.,0,0,0.11,none,review
+652,Olen tyytyväinen odotuksiani.,0,0,0.0,none,review
+133,Olen suuresti pettynyt tähän toimitus.,0,0,0.16,none,review
+470,Tämä auttoi minua suuresti. Kiitos!,0,0,0.04,none,forum
+247,Olen erittäin pettynyt tähän luvattu.,0,0,0.16,none,review
+15,Kirjoitus oli paha ja hidas.,0,0,0.24,none,review
+633,Loistava kokemus alusta loppuun.,0,0,0.01,none,review
+508,Tämä ei vastannut tuotteeseen.,0,0,0.15,none,review
+959,Jumalauta mikä idea.,1,1,0.65,profanity,forum
+349,Olen tyytyväinen luvattu.,0,0,0.07,none,review
+821,Hitto että oli loistava mutta toimii.,1,1,0.34,profanity,forum
+756,Saatana mikä sekoilu.,1,1,0.44,profanity,social_media
+554,Palvelu oli mahtava ja ammattitaitoinen.,0,0,0.23,none,review
+1173,He ovat hieno.,1,1,0.73,hate_speech,forum
+125,En suosittelisi asiakkaalle.,0,0,0.18,none,review
+1075,Senkin ääliö.,1,1,0.76,insult,social_media
+248,Kiitos erittäin auringosta. Arvostan sitä paljon.,0,0,0.06,none,social_media
+978,Helvetti saatana miksi tuotteeseen ei ärsyttää!,1,1,0.72,profanity,forum
+594,Erinomainen idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+857,Helvetti saatana miksi tämä ei ärsyttää!,1,1,0.45,profanity,forum
+1107,Kusipää.,1,1,0.54,insult,social_media
+129,Palvelu on todella idiootti. Opin paljon.,0,0,0.07,none,forum
+482,En suosittelisi käyttäjälle.,0,0,0.17,none,review
+573,Erinomainen iltaa tänään. Nauti avustasi!,0,0,0.06,none,social_media
+417,Mahtava kokemus valitettavasti.,0,0,0.22,none,review
+276,Erinomainen kokemus alusta loppuun.,0,0,0.06,none,review
+975,Helvetti saatana miksi palveluun ei toimii!,1,1,0.72,profanity,forum
+1198,Inhoan sinua.,1,1,0.56,hate_speech,review
+1192,He ovat upea.,1,1,0.76,hate_speech,forum
+1170,Nämä ihmiset ovat upea.,1,1,0.74,hate_speech,forum
+60,Hienoa työtä! Jatka samaan malliin.,0,0,-0.02,none,social_media
+1189,Inhoan heitä.,1,1,0.48,hate_speech,review
+678,Olen todella pettynyt tähän toimitus.,0,0,0.11,none,review
+731,Hitto että oli vaikea mutta meni pieleen.,1,1,0.34,profanity,forum
+813,Hitto että oli vaikea mutta ärsyttää.,1,1,0.34,profanity,forum
+943,Vittu että onnistuu erittäin.,1,1,0.76,profanity,forum
+55,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.01,none,forum
+812,Perkele tämä on erinomainen.,1,1,0.47,profanity,forum
+1019,Saatanan hieno sekoilu.,1,1,0.75,profanity,forum
+1046,Idiootti kenellekään.,1,1,0.68,insult,review
+698,Loistava kokemus valitettavasti.,0,0,0.19,none,review
+3,Hyvää päivää! Toivottavasti sinulla on mukava päivä.,0,0,-0.02,none,social_media
+295,Kiitos suuresti auringosta. Arvostan sitä paljon.,0,0,0.03,none,social_media
+714,Tuote on todella paha. Opin paljon.,0,0,-0.01,none,forum
+477,En suosittelisi käyttäjälle.,0,0,0.19,none,review
+1055,Senkin typerys.,1,1,0.76,insult,social_media
+1200,Nämä ihmiset ovat erinomainen.,1,1,0.67,hate_speech,forum
+311,Tämä ei vastannut luvattu.,0,0,0.16,none,review
+1146,Saatanan tyhmä.,1,1,0.84,insult,social_media
+934,Tämä on täyttä palvelu.,1,1,0.66,profanity,forum
+1012,Paska onni.,1,1,0.73,profanity,forum
+178,Palvelu oli idiootti ja hidas.,0,0,0.22,none,review
+740,Hitto että oli kamala mutta toimi.,1,1,0.34,profanity,forum
+299,Kiitos todella tuotteeseen. Arvostan sitä suuresti.,0,0,0.06,none,social_media
+469,Kiitos todella auringosta. Arvostan sitä suuresti.,0,0,0.05,none,social_media
+287,Erinomainen palveluun. Kiitos!,0,0,0.0,none,review
+702,En suosittelisi käyttäjälle.,0,0,0.27,none,review
+372,Kamala työtä! Jatka samaan malliin.,0,0,0.0,none,social_media
+1111,Ole hiljaa senkin idiootti.,1,1,0.72,insult,social_media
+282,Erinomainen tuotteeseen. Kiitos!,0,0,-0.02,none,review
+992,Jumalauta mikä palvelu.,1,1,0.58,profanity,forum
+471,Kiitos kun jaoit tämän. Paras!,0,0,0.07,none,forum
+36,Erinomainen avustasi. Kiitos!,0,0,0.02,none,review
+361,Tämä ei vastannut avustasi.,0,0,0.13,none,review
+378,Hyvä hinta-laatusuhde tuotetta.,0,0,0.04,none,review
+686,Kiitos kun jaoit tämän. Hienoa!,0,0,0.03,none,forum
+266,Täydellinen työtä! Jatka samaan malliin.,0,0,-0.0,none,social_media
+556,Olen paljon pettynyt tähän asiakaspalvelu.,0,0,0.18,none,review
+301,Mahtava iltaa tänään. Nauti auringosta!,0,0,-0.01,none,social_media
+638,Kiitos suuresti toimitus. Arvostan sitä paljon.,0,0,0.02,none,social_media
+893,Vittu mikä onni toimitus.,1,1,0.84,profanity,review
+1040,Saatanan tyhmä.,1,1,0.83,insult,social_media
+726,Helvetti perkele miksi tämä ei onnistuu!,1,1,0.41,profanity,forum
+1145,Saatanan typerys.,1,1,0.78,insult,social_media
+574,Palvelu on todella paha. Opin paljon.,0,0,0.05,none,forum
+979,Tämä on täyttä suunnitelma.,1,1,0.75,profanity,forum
+1167,Vihaan tätä.,1,1,0.8,hate_speech,social_media
+1,Kirjoitus oli upea ja epäystävällinen.,0,0,0.22,none,review
+787,Helvetti että meni pieleen suuresti!,1,1,0.47,profanity,social_media
+851,Helvetti että onnistuu todella!,1,1,0.4,profanity,social_media
+37,Kaunis työtä! Jatka samaan malliin.,0,0,-0.03,none,social_media
+174,Kaunis kokemus valitettavasti.,0,0,0.16,none,review
+766,Saatana mikä juttu.,1,1,0.45,profanity,social_media
+983,Paska suunnitelma.,1,1,0.66,profanity,forum
+35,Olen paljon pettynyt tähän odotuksiani.,0,0,0.14,none,review
+200,Erinomainen odotuksiani. Kiitos!,0,0,-0.02,none,review
+293,Hyvä hinta-laatusuhde tuote.,0,0,0.06,none,review
+207,Hienoa työtä! Jatka samaan malliin.,0,0,0.0,none,social_media
+789,Perkele kun toimii!,1,1,0.46,profanity,social_media
+450,Olen samaa mieltä kanssasi. Hyvä pointti!,0,0,-0.01,none,forum
+507,Olen paljon pettynyt tähän luvattu.,0,0,0.19,none,review
+837,Perkele kun ärsyttää!,1,1,0.43,profanity,social_media
+59,Artikkeli oli mahtava ja epäystävällinen.,0,0,0.22,none,review
+294,Kiitos kun jaoit tämän. Erinomainen!,0,0,-0.03,none,forum
+976,Vittu mikä suunnitelma luvattu.,1,1,0.89,profanity,review
+620,Hyvä hinta-laatusuhde tuote.,0,0,-0.0,none,review
+394,Toimii juuri kuten luvattu.,0,0,0.03,none,review
+39,Kamala kokemus alusta loppuun.,0,0,0.05,none,review
+1058,Helvetin typerys.,1,1,0.8,insult,social_media
+945,Helvetti saatana miksi tuotteeseen ei meni pieleen!,1,1,0.66,profanity,forum
+228,Erinomainen auringosta. Kiitos!,0,0,0.02,none,review
+1164,Tämä ryhmä ovat mahtava.,1,1,0.76,hate_speech,forum
+66,Huono kokemus valitettavasti.,0,0,0.14,none,review
+91,Olen samaa mieltä kanssasi. Hyvä pointti!,0,0,0.06,none,forum
+1171,Vihaan heitä.,1,1,0.76,hate_speech,social_media
+836,Helvetti että onnistui suuresti!,1,1,0.43,profanity,social_media
+149,Täydellinen kokemus valitettavasti.,0,0,0.18,none,review
+94,Toimii juuri kuten avustasi.,0,0,0.05,none,review
+743,Hitto että oli tyhmä mutta toimii.,1,1,0.3,profanity,forum
+1004,Helvetti saatana miksi asiakaspalvelu ei onnistui!,1,1,0.64,profanity,forum
+684,En suosittelisi asiakkaalle.,0,0,0.25,none,review
+54,Kiitos paljon avustasi. Arvostan sitä erittäin.,0,0,0.04,none,social_media
+347,Täydellinen idea! Kokeilen varmasti.,0,0,0.0,none,social_media
+411,En suosittelisi kenellekään.,0,0,0.21,none,review
+521,Kiitos kun jaoit tämän. Erinomainen!,0,0,0.02,none,forum
+220,Erinomainen odotuksiani. Kiitos!,0,0,-0.02,none,review
+883,Tämä on täyttä onni.,1,1,0.72,profanity,forum
+693,Hienoa kokemus valitettavasti.,0,0,0.16,none,review
+458,Kaunis työtä! Jatka samaan malliin.,0,0,0.02,none,social_media
+644,Tämä auttoi minua suuresti. Kiitos!,0,0,-0.03,none,forum
+705,Tämä ei vastannut asiakaspalvelu.,0,0,0.11,none,review
+142,Artikkeli on todella monimutkainen. Opin paljon.,0,0,0.01,none,forum
+408,Suosittelen tätä tuote.,0,0,0.01,none,review
+1180,He ovat idiootti.,1,1,0.76,hate_speech,forum
+1030,Vittu että ärsyttää suuresti.,1,1,0.8,profanity,forum
+579,Olen paljon pettynyt tähän odotuksiani.,0,0,0.11,none,review
+771,Perkele kun toimi!,1,1,0.47,profanity,social_media
+786,Perkele tämä on hyvä.,1,1,0.43,profanity,forum
+778,Hitto että oli monimutkainen mutta toimii.,1,1,0.36,profanity,forum
+495,Hieno idea! Kokeilen varmasti.,0,0,0.04,none,social_media
+566,Palvelu oli haasteellinen ja ammattitaitoinen.,0,0,0.22,none,review
+424,Erinomainen huomenta tänään. Nauti palveluun!,0,0,0.04,none,social_media
+209,Hieno työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+792,Hitto että onnistui.,1,1,0.36,profanity,social_media
+1178,Nämä ihmiset ovat kamala.,1,1,0.75,hate_speech,forum
+736,Helvetti että onnistuu paljon!,1,1,0.45,profanity,social_media
+434,Erinomainen idea! Kokeilen varmasti.,0,0,0.04,none,social_media
+549,Kiitos kun jaoit tämän. Kamala!,0,0,0.04,none,forum
+268,Paras kokemus valitettavasti.,0,0,0.22,none,review
+260,Mahtava työtä! Jatka samaan malliin.,0,0,0.0,none,social_media
+1036,Senkin tyhmä.,1,1,0.77,insult,social_media
+159,Suosittelen tätä palvelu.,0,0,0.04,none,review
+110,Suosittelen tätä kokemus.,0,0,0.02,none,review
+707,En suosittelisi asiakkaalle.,0,0,0.25,none,review
+953,Vittu että toimii todella.,1,1,0.81,profanity,forum
+864,Saatana mikä sekoilu.,1,1,0.49,profanity,social_media
+211,Artikkeli oli hieno ja hidas.,0,0,0.28,none,review
+385,Kiitos kun jaoit tämän. Täydellinen!,0,0,-0.0,none,forum
+592,Tuote oli ääliömäinen ja hidas.,0,0,0.25,none,review
+533,Kiitos kun jaoit tämän. Huono!,0,0,0.02,none,forum
+625,Palvelu oli tyhmä ja nopea.,0,0,0.24,none,review
+637,En suosittelisi kanssasi.,0,0,0.19,none,review
+8,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.05,none,forum
+939,Jumalauta mikä palvelu.,1,1,0.58,profanity,forum
+194,Toimii juuri kuten toimitus.,0,0,0.02,none,review
+264,Kamala kokemus alusta loppuun.,0,0,-0.0,none,review
+419,Tuote on todella monimutkainen. Opin paljon.,0,0,0.02,none,forum
+810,Hitto että oli tyhmä mutta toimi.,1,1,0.4,profanity,forum
+667,Loistava kokemus valitettavasti.,0,0,0.2,none,review
+86,Nopea auringosta ja laadukas ostokseen.,0,0,0.01,none,review
+239,Hieno työtä! Jatka samaan malliin.,0,0,0.01,none,social_media
+489,Huono työtä! Jatka samaan malliin.,0,0,-0.0,none,social_media
+261,Paras työtä! Jatka samaan malliin.,0,0,-0.01,none,social_media
+683,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.01,none,forum
+436,En suosittelisi kenellekään.,0,0,0.26,none,review
+894,Helvetti saatana miksi tuotteeseen ei toimi!,1,1,0.69,profanity,forum
+1127,Saatanan idiootti.,1,1,0.78,insult,social_media
+800,Hitto että onnistuu.,1,1,0.36,profanity,social_media
+359,Toimii juuri kuten luvattu.,0,0,-0.03,none,review
+974,Vittu mikä idea tuotteeseen.,1,1,0.87,profanity,review
+623,Kiitos paljon toimitus. Arvostan sitä suuresti.,0,0,-0.0,none,social_media
+1063,Hieno asiakaspalvelu.,1,1,0.5,insult,forum
+440,Olen erittäin pettynyt tähän tuotteeseen.,0,0,0.11,none,review
+543,En suosittelisi kanssasi.,0,0,0.18,none,review
+886,Paska idea.,1,1,0.69,profanity,forum
+380,Hyvää viikonloppua! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.02,none,social_media
+431,Loistava idea! Kokeilen varmasti.,0,0,0.01,none,social_media
+535,Kiitos paljon auringosta. Arvostan sitä erittäin.,0,0,0.03,none,social_media
+442,Hyvää viikonloppua! Toivottavasti sinulla on hieno päivä.,0,0,-0.0,none,social_media
+2,Kamala päivää tänään. Nauti palveluun!,0,0,0.0,none,social_media
+809,Helvetti saatana miksi tämä ei toimii!,1,1,0.38,profanity,forum
+618,Olen erittäin pettynyt tähän asiakaspalvelu.,0,0,0.16,none,review
+134,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,-0.02,none,forum
+901,Tämä on täyttä onni.,1,1,0.73,profanity,forum
+96,Tämä ei vastannut asiakaspalvelu.,0,0,0.17,none,review
+121,Kamala kokemus valitettavasti.,0,0,0.2,none,review
+516,Hyvää päivää! Toivottavasti sinulla on hieno päivä.,0,0,0.05,none,social_media
+545,Suosittelen tätä ostokseen.,0,0,0.05,none,review
+40,Tämä on todella ääliömäinen. Opin paljon.,0,0,0.08,none,forum
+615,Olen suuresti pettynyt tähän toimitus.,0,0,0.17,none,review
+488,Olen samaa mieltä kanssasi. Hyvä pointti!,0,0,0.04,none,forum
+182,Loistava idea! Kokeilen varmasti.,0,0,0.04,none,social_media
+99,Tämä auttoi minua erittäin. Kiitos!,0,0,-0.0,none,forum
+621,Hyvää huomenta! Toivottavasti sinulla on loistava päivä.,0,0,-0.04,none,social_media
+710,Kirjoitus on todella mahtava. Opin paljon.,0,0,0.02,none,forum
+1169,Tämä ryhmä ovat huono.,1,1,0.72,hate_speech,forum
+517,Erinomainen kokemus valitettavasti.,0,0,0.2,none,review
+536,Tuote oli ääliömäinen ja nopea.,0,0,0.2,none,review
+208,Erinomainen avustasi. Kiitos!,0,0,-0.01,none,review
+17,Erinomainen odotuksiani. Kiitos!,0,0,-0.02,none,review
+838,Hitto että ärsyttää.,1,1,0.36,profanity,social_media
+136,En suosittelisi asiakkaalle.,0,0,0.27,none,review
+1044,Kamala tuotteeseen.,1,1,0.49,insult,forum
+737,Hitto että oli loistava mutta onnistuu.,1,1,0.37,profanity,forum
+982,Tämä on täyttä sekoilu.,1,1,0.69,profanity,forum
+71,Täydellinen kokemus alusta loppuun.,0,0,-0.03,none,review
+954,Vittu että onnistui todella.,1,1,0.76,profanity,forum
+952,Vittu että onnistuu todella.,1,1,0.81,profanity,forum
+465,Tämä on todella idiootti. Opin paljon.,0,0,0.01,none,forum
+351,Palvelu on todella loistava. Opin paljon.,0,0,-0.01,none,forum
+172,Kirjoitus oli vaikea ja epäystävällinen.,0,0,0.29,none,review
+994,Vittu että onnistuu paljon.,1,1,0.81,profanity,forum
+524,Suosittelen tätä palvelu.,0,0,0.06,none,review
+639,Kiitos erittäin auringosta. Arvostan sitä paljon.,0,0,0.05,none,social_media
+187,En suosittelisi asiakkaalle.,0,0,0.23,none,review
+597,Kiitos kun jaoit tämän. Täydellinen!,0,0,0.02,none,forum
+147,Tämä auttoi minua suuresti. Kiitos!,0,0,0.06,none,forum
+616,Hienoa kokemus valitettavasti.,0,0,0.14,none,review
+691,Tämä auttoi minua todella. Kiitos!,0,0,0.03,none,forum
+1176,Inhoan tätä paikkaa.,1,1,0.5,hate_speech,review
+175,Tämä auttoi minua todella. Kiitos!,0,0,-0.02,none,forum
+699,Kiitos kun jaoit tämän. Huono!,0,0,0.0,none,forum
+483,Kirjoitus on todella vaikea. Opin paljon.,0,0,0.02,none,forum
+835,Saatana mikä paska.,1,1,0.41,profanity,social_media
+1131,Saatanan tyhmä.,1,1,0.84,insult,social_media
+222,En suosittelisi käyttäjälle.,0,0,0.2,none,review
+1014,Vittu että ärsyttää erittäin.,1,1,0.79,profanity,forum
+291,Hieno työtä! Jatka samaan malliin.,0,0,-0.02,none,social_media
+823,Hitto että oli monimutkainen mutta meni pieleen.,1,1,0.35,profanity,forum
+653,Kirjoitus on todella idiootti. Opin paljon.,0,0,-0.01,none,forum
+578,Loistava kokemus valitettavasti.,0,0,0.15,none,review
+614,Olen paljon pettynyt tähän odotuksiani.,0,0,0.12,none,review
+727,Hitto että oli erinomainen mutta meni pieleen.,1,1,0.33,profanity,forum
+732,Hitto että oli kamala mutta meni pieleen.,1,1,0.31,profanity,forum
+185,Suosittelen tätä tuotetta.,0,0,0.01,none,review
+1013,Vittu että meni pieleen suuresti.,1,1,0.84,profanity,forum
+171,Nopea palveluun ja laadukas ostokseen.,0,0,0.03,none,review
+58,Tuote on todella idiootti. Opin paljon.,0,0,-0.01,none,forum
+1024,Saatanan ääliömäinen idea.,1,1,0.76,profanity,forum
+938,Paska paska.,1,1,0.69,profanity,forum
+865,Tämä on täyttä paska.,1,1,0.65,profanity,forum
+921,Jumalauta mikä sekoilu.,1,1,0.58,profanity,forum
+645,Toimii juuri kuten asiakaspalvelu.,0,0,0.04,none,review
+1130,Idiootti.,1,1,0.59,insult,social_media
+919,Tämä on täyttä juttu.,1,1,0.72,profanity,forum
+607,Hyvä hinta-laatusuhde palvelu.,0,0,0.02,none,review
+588,Kiitos kun jaoit tämän. Hienoa!,0,0,-0.01,none,forum
+131,Kiitos kun jaoit tämän. Hienoa!,0,0,0.01,none,forum
+45,Tuote oli paha ja ystävällinen.,0,0,0.25,none,review
+250,Kirjoitus oli vaikea ja hidas.,0,0,0.26,none,review
+23,Kirjoitus oli idiootti ja hidas.,0,0,0.21,none,review
+421,Olen erittäin pettynyt tähän palveluun.,0,0,0.15,none,review
+663,Kirjoitus oli paha ja nopea.,0,0,0.24,none,review
+166,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,0.02,none,forum
+987,Saatanan upea juttu.,1,1,0.68,profanity,forum
+931,Paska onni.,1,1,0.66,profanity,forum
+697,Kiitos kun jaoit tämän. Hieno!,0,0,-0.0,none,forum
+491,Olen tyytyväinen toimitus.,0,0,-0.01,none,review
+692,Olen samaa mieltä kanssasi. Hyvä pointti!,0,0,-0.01,none,forum
+723,Perkele tämä on idiootti.,1,1,0.41,profanity,forum
+117,Hyvä hinta-laatusuhde ostokseen.,0,0,-0.03,none,review
+889,Tämä on täyttä paska.,1,1,0.74,profanity,forum
+425,Olen samaa mieltä kanssasi. Hyvä pointti!,0,0,0.04,none,forum
+1073,Ole hiljaa senkin idiootti.,1,1,0.72,insult,social_media
+971,Saatanan mukava palvelu.,1,1,0.68,profanity,forum
+1002,Vittu mikä idea luvattu.,1,1,0.9,profanity,review
+1088,Helvetin typerys.,1,1,0.89,insult,social_media
+371,Olen tyytyväinen toimitus.,0,0,0.04,none,review
+162,Kaunis työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+192,Artikkeli on todella monimutkainen. Opin paljon.,0,0,0.02,none,forum
+154,Kiitos kun jaoit tämän. Mahtava!,0,0,0.05,none,forum
+925,Tämä on täyttä sekoilu.,1,1,0.7,profanity,forum
+833,Saatana mikä onni.,1,1,0.48,profanity,social_media
+659,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.06,none,forum
+1056,Senkin ääliö.,1,1,0.77,insult,social_media
+826,Hitto että ärsyttää.,1,1,0.41,profanity,social_media
+236,Erinomainen toimitus. Kiitos!,0,0,0.01,none,review
+977,Vittu että meni pieleen suuresti.,1,1,0.79,profanity,forum
+1082,Helvetin tyhmä.,1,1,0.84,insult,social_media
+143,Suosittelen tätä ostokseen.,0,0,-0.03,none,review
+795,Perkele kun toimi!,1,1,0.42,profanity,social_media
+1000,Vittu mikä sekoilu luvattu.,1,1,0.89,profanity,review
+619,Tämä ei vastannut toimitus.,0,0,0.14,none,review
+494,Artikkeli on todella idiootti. Opin paljon.,0,0,0.07,none,forum
+840,Helvetti että onnistui suuresti!,1,1,0.41,profanity,social_media
+354,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.01,none,forum
+362,Olen tyytyväinen avustasi.,0,0,-0.01,none,review
+1118,Helvetin idiootti.,1,1,0.81,insult,social_media
+529,Erinomainen luvattu. Kiitos!,0,0,0.05,none,review
+802,Hitto että onnistui.,1,1,0.35,profanity,social_media
+1068,Saatanan idiootti.,1,1,0.86,insult,social_media
+1020,Paska paska.,1,1,0.64,profanity,forum
+530,Suosittelen tätä tuotetta.,0,0,0.04,none,review
+80,Huono idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+998,Tämä on täyttä palvelu.,1,1,0.65,profanity,forum
+1080,Helvetin ääliö.,1,1,0.85,insult,social_media
+804,Hitto että oli tyhmä mutta onnistui.,1,1,0.36,profanity,forum
+388,Toimii juuri kuten palveluun.,0,0,0.0,none,review
+807,Perkele kun toimii!,1,1,0.41,profanity,social_media
+386,Kiitos kun jaoit tämän. Kaunis!,0,0,0.07,none,forum
+179,Olen erittäin pettynyt tähän auringosta.,0,0,0.15,none,review
+584,Hyvä hinta-laatusuhde palvelu.,0,0,-0.01,none,review
+558,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.03,none,forum
+818,Helvetti että toimii todella!,1,1,0.37,profanity,social_media
+829,Helvetti että ärsyttää paljon!,1,1,0.46,profanity,social_media
+281,Huono kokemus alusta loppuun.,0,0,0.0,none,review
+649,Erinomainen kokemus alusta loppuun.,0,0,0.05,none,review
+534,Loistava kokemus alusta loppuun.,0,0,0.02,none,review
+721,Helvetti saatana miksi tämä ei onnistuu!,1,1,0.41,profanity,forum
+106,Kiitos kun jaoit tämän. Huono!,0,0,0.0,none,forum
+332,Erinomainen auringosta. Kiitos!,0,0,-0.03,none,review
+665,Paras työtä! Jatka samaan malliin.,0,0,0.05,none,social_media
+41,Tämä ei vastannut tuotteeseen.,0,0,0.08,none,review
+48,Tämä oli hieno ja hidas.,0,0,0.29,none,review
+466,Kiitos erittäin avustasi. Arvostan sitä todella.,0,0,0.06,none,social_media
+481,Erinomainen avustasi. Kiitos!,0,0,-0.03,none,review
+1011,Helvetti saatana miksi palveluun ei toimi!,1,1,0.65,profanity,forum
+370,Kiitos erittäin tuotteeseen. Arvostan sitä suuresti.,0,0,0.04,none,social_media
+531,Huono työtä! Jatka samaan malliin.,0,0,0.01,none,social_media
+212,Hyvä hinta-laatusuhde tuote.,0,0,0.06,none,review
+685,Olen tyytyväinen asiakaspalvelu.,0,0,-0.02,none,review
+44,Nopea auringosta ja laadukas kokemus.,0,0,0.06,none,review
+240,Tämä auttoi minua todella. Kiitos!,0,0,0.0,none,forum
+379,Olen tyytyväinen auringosta.,0,0,0.0,none,review
+271,Tämä auttoi minua erittäin. Kiitos!,0,0,-0.02,none,forum
+996,Tämä on täyttä juttu.,1,1,0.73,profanity,forum
+238,Täydellinen kokemus valitettavasti.,0,0,0.19,none,review
+1059,Senkin tyhmä.,1,1,0.71,insult,social_media
+225,Olen tyytyväinen odotuksiani.,0,0,0.01,none,review
+42,Huono työtä! Jatka samaan malliin.,0,0,-0.02,none,social_media
+843,Hitto että oli erinomainen mutta ärsyttää.,1,1,0.4,profanity,forum
+496,Suosittelen tätä palvelu.,0,0,0.03,none,review
+750,Saatana mikä idea.,1,1,0.47,profanity,social_media
+1115,Kaunis asiakaspalvelu.,1,1,0.43,insult,forum
+1085,Senkin idiootti.,1,1,0.78,insult,social_media
+907,Saatanan vaikea sekoilu.,1,1,0.67,profanity,forum
+777,Helvetti perkele miksi tämä ei meni pieleen!,1,1,0.43,profanity,forum
+868,Paska idea.,1,1,0.71,profanity,forum
+184,Suosittelen tätä tuote.,0,0,0.01,none,review
+164,Artikkeli oli hieno ja epäystävällinen.,0,0,0.22,none,review
+844,Perkele tämä on loistava.,1,1,0.45,profanity,forum
+832,Helvetti saatana miksi tämä ei ärsyttää!,1,1,0.38,profanity,forum
+527,Erinomainen päivää tänään. Nauti avustasi!,0,0,0.05,none,social_media
+776,Perkele kun onnistuu!,1,1,0.45,profanity,social_media
+170,Hyvää iltaa! Toivottavasti sinulla on kamala päivä.,0,0,-0.0,none,social_media
+701,Hieno kokemus alusta loppuun.,0,0,-0.01,none,review
+629,Tämä ei vastannut asiakaspalvelu.,0,0,0.12,none,review
+1105,Senkin idiootti.,1,1,0.7,insult,social_media
+1069,Senkin idiootti.,1,1,0.78,insult,social_media
+11,Kiitos kun jaoit tämän. Hieno!,0,0,0.03,none,forum
+986,Tämä on täyttä idea.,1,1,0.67,profanity,forum
+373,Olen tyytyväinen odotuksiani.,0,0,0.05,none,review
+407,Olen suuresti pettynyt tähän tuotteeseen.,0,0,0.15,none,review
+93,Tämä auttoi minua erittäin. Kiitos!,0,0,-0.03,none,forum
+1097,Ääliö.,1,1,0.62,insult,social_media
+1141,Senkin idiootti.,1,1,0.73,insult,social_media
+476,Kirjoitus on todella huono. Opin paljon.,0,0,0.01,none,forum
+850,Perkele tämä on upea.,1,1,0.46,profanity,forum
+898,Vittu mikä paska luvattu.,1,1,0.85,profanity,review
+848,Perkele kun ärsyttää!,1,1,0.43,profanity,social_media
+604,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.0,none,forum
+1054,Saatanan idiootti.,1,1,0.81,insult,social_media
+229,Erinomainen kokemus valitettavasti.,0,0,0.17,none,review
+402,Kaunis kokemus valitettavasti.,0,0,0.17,none,review
+375,Hyvä hinta-laatusuhde ostokseen.,0,0,0.01,none,review
+1136,Helvetin tyhmä.,1,1,0.86,insult,social_media
+972,Paska sekoilu.,1,1,0.72,profanity,forum
+670,Hienoa kokemus alusta loppuun.,0,0,0.02,none,review
+484,Kaunis kokemus valitettavasti.,0,0,0.19,none,review
+553,Tämä auttoi minua todella. Kiitos!,0,0,0.05,none,forum
+557,Kaunis kokemus alusta loppuun.,0,0,0.02,none,review
+1099,Helvetin ääliö.,1,1,0.83,insult,social_media
+839,Hitto että onnistuu.,1,1,0.4,profanity,social_media
+38,Toimii juuri kuten auringosta.,0,0,-0.02,none,review
+218,En suosittelisi kanssasi.,0,0,0.26,none,review
+1138,Saatanan tyhmä.,1,1,0.8,insult,social_media
+1187,Vihaan tätä paikkaa.,1,1,0.81,hate_speech,social_media
+1008,Saatanan ääliömäinen sekoilu.,1,1,0.68,profanity,forum
+593,Nopea palveluun ja laadukas palvelu.,0,0,-0.02,none,review
+1168,Vihaan tätä paikkaa.,1,1,0.83,hate_speech,social_media
+970,Vittu mikä paska toimitus.,1,1,0.83,profanity,review
+647,Hyvä hinta-laatusuhde kokemus.,0,0,-0.02,none,review
+520,Hyvä hinta-laatusuhde kokemus.,0,0,-0.02,none,review
+20,Kiitos todella asiakaspalvelu. Arvostan sitä todella.,0,0,-0.02,none,social_media
+1026,Tämä on täyttä suunnitelma.,1,1,0.65,profanity,forum
+745,Perkele tämä on paha.,1,1,0.42,profanity,forum
+79,Kirjoitus on todella vaikea. Opin paljon.,0,0,0.01,none,forum
+642,Erinomainen huomenta tänään. Nauti asiakaspalvelu!,0,0,-0.01,none,social_media
+752,Helvetti perkele miksi tämä ei onnistuu!,1,1,0.45,profanity,forum
+270,Kaunis idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+202,Olen suuresti pettynyt tähän auringosta.,0,0,0.18,none,review
+552,Hyvää iltaa! Toivottavasti sinulla on huono päivä.,0,0,0.03,none,social_media
+144,Mahtava huomenta tänään. Nauti asiakaspalvelu!,0,0,0.03,none,social_media
+288,Toimii juuri kuten auringosta.,0,0,0.02,none,review
+1103,Ole hiljaa senkin tyhmä.,1,1,0.75,insult,social_media
+980,Paska onni.,1,1,0.65,profanity,forum
+923,Vittu mikä juttu tuotteeseen.,1,1,0.85,profanity,review
+1025,Vittu että toimi todella.,1,1,0.8,profanity,forum
+112,Nopea auringosta ja laadukas tuote.,0,0,0.03,none,review
+565,Suosittelen tätä ostokseen.,0,0,-0.0,none,review
+890,Paska suunnitelma.,1,1,0.64,profanity,forum
+932,Helvetti saatana miksi avustasi ei onnistuu!,1,1,0.72,profanity,forum
+1124,Loistava luvattu.,1,1,0.45,insult,forum
+368,Toimii juuri kuten auringosta.,0,0,0.03,none,review
+457,Tämä ei vastannut avustasi.,0,0,0.11,none,review
+474,Tuote on todella tyhmä. Opin paljon.,0,0,0.08,none,forum
+492,En suosittelisi asiakkaalle.,0,0,0.24,none,review
+340,Hieno idea! Kokeilen varmasti.,0,0,0.05,none,social_media
+751,Saatana mikä idea.,1,1,0.43,profanity,social_media
+696,Mahtava kokemus valitettavasti.,0,0,0.21,none,review
+138,Olen erittäin pettynyt tähän asiakaspalvelu.,0,0,0.19,none,review
+369,Kamala kokemus valitettavasti.,0,0,0.14,none,review
+284,Hienoa kokemus alusta loppuun.,0,0,0.05,none,review
+447,Kamala viikonloppua tänään. Nauti toimitus!,0,0,-0.04,none,social_media
+999,Vittu mikä onni luvattu.,1,1,0.9,profanity,review
+758,Helvetti saatana miksi tämä ei onnistuu!,1,1,0.41,profanity,forum
+730,Helvetti perkele miksi tämä ei ärsyttää!,1,1,0.47,profanity,forum
+917,Vittu mikä suunnitelma asiakaspalvelu.,1,1,0.9,profanity,review
+805,Hitto että oli mukava mutta onnistui.,1,1,0.38,profanity,forum
+253,Kirjoitus oli erinomainen ja ystävällinen.,0,0,0.25,none,review
+321,Toimii juuri kuten palveluun.,0,0,0.06,none,review
+5,Palvelu oli tyhmä ja hidas.,0,0,0.26,none,review
+173,En suosittelisi kanssasi.,0,0,0.25,none,review
+439,Erinomainen auringosta. Kiitos!,0,0,0.0,none,review
+1006,Vittu että ärsyttää todella.,1,1,0.79,profanity,forum
+828,Perkele tämä on idiootti.,1,1,0.45,profanity,forum
+374,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.01,none,forum
+1117,Idiootti kenellekään.,1,1,0.68,insult,review
+1052,Helvetin typerys.,1,1,0.87,insult,social_media
+157,Mahtava idea! Kokeilen varmasti.,0,0,-0.03,none,social_media
+599,Loistava viikonloppua tänään. Nauti luvattu!,0,0,-0.04,none,social_media
+711,Olen tyytyväinen palveluun.,0,0,-0.02,none,review
+314,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.03,none,forum
+676,Tämä on todella hieno. Opin paljon.,0,0,0.02,none,forum
+916,Helvetti saatana miksi asiakaspalvelu ei toimi!,1,1,0.69,profanity,forum
+337,Olen erittäin pettynyt tähän auringosta.,0,0,0.16,none,review
+1010,Paska suunnitelma.,1,1,0.69,profanity,forum
+498,Erinomainen tuotteeseen. Kiitos!,0,0,0.04,none,review
+326,Huono huomenta tänään. Nauti palveluun!,0,0,-0.02,none,social_media
+1048,Senkin ääliö.,1,1,0.72,insult,social_media
+72,Loistava kokemus valitettavasti.,0,0,0.19,none,review
+635,Tämä auttoi minua paljon. Kiitos!,0,0,-0.01,none,forum
+292,Paras kokemus valitettavasti.,0,0,0.19,none,review
+103,Loistava kokemus alusta loppuun.,0,0,-0.04,none,review
+241,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,0.0,none,forum
+672,Hienoa työtä! Jatka samaan malliin.,0,0,0.01,none,social_media
+897,Paska onni.,1,1,0.66,profanity,forum
+132,Täydellinen päivää tänään. Nauti palveluun!,0,0,-0.02,none,social_media
+366,Tuote oli mahtava ja epäystävällinen.,0,0,0.22,none,review
+339,Tämä auttoi minua paljon. Kiitos!,0,0,0.02,none,forum
+499,Olen suuresti pettynyt tähän odotuksiani.,0,0,0.2,none,review
+595,Hyvää iltaa! Toivottavasti sinulla on monimutkainen päivä.,0,0,0.02,none,social_media
+1133,Täydellinen toimitus.,1,1,0.44,insult,forum
+203,Hyvä hinta-laatusuhde tuotetta.,0,0,-0.0,none,review
+101,Loistava työtä! Jatka samaan malliin.,0,0,-0.02,none,social_media
+257,Täydellinen päivää tänään. Nauti auringosta!,0,0,-0.01,none,social_media
+69,Olen suuresti pettynyt tähän tuotteeseen.,0,0,0.2,none,review
+910,Vittu mikä paska luvattu.,1,1,0.88,profanity,review
+1148,Erinomainen auringosta.,1,1,0.48,insult,forum
+989,Jumalauta mikä sekoilu.,1,1,0.63,profanity,forum
+903,Vittu että meni pieleen suuresti.,1,1,0.78,profanity,forum
+1090,Saatanan idiootti.,1,1,0.8,insult,social_media
+473,Olen suuresti pettynyt tähän auringosta.,0,0,0.17,none,review
+563,Huono työtä! Jatka samaan malliin.,0,0,-0.0,none,social_media
+770,Saatana mikä palvelu.,1,1,0.49,profanity,social_media
+922,Helvetti saatana miksi tuotteeseen ei toimii!,1,1,0.64,profanity,forum
+1023,Vittu mikä palvelu asiakaspalvelu.,1,1,0.85,profanity,review
+873,Tämä on täyttä palvelu.,1,1,0.71,profanity,forum
+581,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.03,none,forum
+819,Hitto että oli loistava mutta ärsyttää.,1,1,0.4,profanity,forum
+688,Tämä on todella hieno. Opin paljon.,0,0,0.02,none,forum
+186,Toimii juuri kuten auringosta.,0,0,-0.01,none,review
+118,Tämä auttoi minua suuresti. Kiitos!,0,0,0.04,none,forum
+199,Suosittelen tätä tuote.,0,0,0.03,none,review
+259,Hyvä hinta-laatusuhde ostokseen.,0,0,0.02,none,review
+1157,Vihaan sinua.,1,1,0.77,hate_speech,social_media
+632,Tämä ei vastannut asiakaspalvelu.,0,0,0.12,none,review
+227,Olen tyytyväinen tuotteeseen.,0,0,-0.02,none,review
+1074,Saatanan idiootti.,1,1,0.8,insult,social_media
+165,Hyvää huomenta! Toivottavasti sinulla on vaikea päivä.,0,0,-0.03,none,social_media
+146,Täydellinen idea! Kokeilen varmasti.,0,0,-0.03,none,social_media
+525,Paras iltaa tänään. Nauti palveluun!,0,0,-0.02,none,social_media
+872,Jumalauta mikä juttu.,1,1,0.63,profanity,forum
+662,Hyvä hinta-laatusuhde kokemus.,0,0,0.01,none,review
+423,Nopea luvattu ja laadukas kokemus.,0,0,-0.02,none,review
+217,Hyvä hinta-laatusuhde ostokseen.,0,0,0.02,none,review
+353,Huono kokemus valitettavasti.,0,0,0.19,none,review
+744,Helvetti saatana miksi tämä ei ärsyttää!,1,1,0.38,profanity,forum
+926,Vittu että toimi todella.,1,1,0.77,profanity,forum
+760,Helvetti saatana miksi tämä ei toimi!,1,1,0.37,profanity,forum
+767,Saatana mikä idea.,1,1,0.5,profanity,social_media
+216,Hyvä hinta-laatusuhde ostokseen.,0,0,0.06,none,review
+313,Erinomainen idea! Kokeilen varmasti.,0,0,0.02,none,social_media
+88,Suosittelen tätä tuotetta.,0,0,0.02,none,review
+1184,Vihaan sinua.,1,1,0.81,hate_speech,social_media
+551,Olen todella pettynyt tähän toimitus.,0,0,0.15,none,review
+404,Kiitos todella auringosta. Arvostan sitä suuresti.,0,0,0.03,none,social_media
+611,Nopea odotuksiani ja laadukas ostokseen.,0,0,0.05,none,review
+1142,Mahtava auringosta.,1,1,0.43,insult,forum
+6,Hyvää huomenta! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.01,none,social_media
+43,Olen paljon pettynyt tähän asiakaspalvelu.,0,0,0.19,none,review
+127,Nopea tuotteeseen ja laadukas tuote.,0,0,-0.04,none,review
+145,Palvelu on todella tyhmä. Opin paljon.,0,0,0.01,none,forum
+569,Nopea toimitus ja laadukas palvelu.,0,0,0.01,none,review
+896,Helvetti saatana miksi luvattu ei onnistui!,1,1,0.67,profanity,forum
+567,Erinomainen kokemus alusta loppuun.,0,0,0.02,none,review
+1096,Erinomainen tuotteeseen.,1,1,0.5,insult,forum
+1108,Senkin idiootti.,1,1,0.77,insult,social_media
+664,Hienoa työtä! Jatka samaan malliin.,0,0,-0.03,none,social_media
+747,Saatana mikä suunnitelma.,1,1,0.47,profanity,social_media
+888,Vittu että meni pieleen paljon.,1,1,0.78,profanity,forum
+1183,Inhoan sinua.,1,1,0.53,hate_speech,review
+937,Jumalauta mikä suunnitelma.,1,1,0.63,profanity,forum
+909,Paska palvelu.,1,1,0.7,profanity,forum
+694,Tuote on todella haasteellinen. Opin paljon.,0,0,0.04,none,forum
+306,Kiitos kun jaoit tämän. Kaunis!,0,0,-0.0,none,forum
+1031,Tämä on täyttä suunnitelma.,1,1,0.66,profanity,forum
+650,Huono viikonloppua tänään. Nauti avustasi!,0,0,0.0,none,social_media
+303,Suosittelen tätä tuote.,0,0,0.01,none,review
+559,Suosittelen tätä kokemus.,0,0,-0.02,none,review
+870,Saatanan erinomainen onni.,1,1,0.68,profanity,forum
+817,Helvetti perkele miksi tämä ei ärsyttää!,1,1,0.42,profanity,forum
+816,Hitto että oli loistava mutta onnistuu.,1,1,0.35,profanity,forum
+401,Erinomainen idea! Kokeilen varmasti.,0,0,0.04,none,social_media
+765,Saatana mikä sekoilu.,1,1,0.43,profanity,social_media
+1079,Kaunis palveluun.,1,1,0.48,insult,forum
+226,Tämä ei vastannut odotuksiani.,0,0,0.13,none,review
+1144,Saatanan tyhmä.,1,1,0.84,insult,social_media
+161,Tämä auttoi minua todella. Kiitos!,0,0,0.05,none,forum
+486,Tuote on todella erinomainen. Opin paljon.,0,0,0.02,none,forum
+32,Erinomainen toimitus. Kiitos!,0,0,-0.04,none,review
+1095,Ääliö.,1,1,0.56,insult,social_media
+1016,Jumalauta mikä juttu.,1,1,0.61,profanity,forum
+405,Palvelu on todella kamala. Opin paljon.,0,0,0.04,none,forum
+391,Hyvä hinta-laatusuhde palvelu.,0,0,-0.02,none,review
+449,Erinomainen viikonloppua tänään. Nauti palveluun!,0,0,-0.02,none,social_media
+949,Vittu että onnistuu paljon.,1,1,0.78,profanity,forum
+784,Saatana mikä suunnitelma.,1,1,0.5,profanity,social_media
+289,Tämä auttoi minua todella. Kiitos!,0,0,0.02,none,forum
+89,Olen tyytyväinen tuotteeseen.,0,0,0.04,none,review
+622,Toimii juuri kuten palveluun.,0,0,0.01,none,review
+309,Toimii juuri kuten palveluun.,0,0,0.03,none,review
+1182,Inhoan sinua.,1,1,0.48,hate_speech,review
+806,Perkele kun meni pieleen!,1,1,0.44,profanity,social_media
+297,En suosittelisi asiakkaalle.,0,0,0.24,none,review
+1147,Saatanan ääliö.,1,1,0.83,insult,social_media
+1119,Ääliö asiakkaalle.,1,1,0.62,insult,review
+951,Tämä on täyttä idea.,1,1,0.73,profanity,forum
+367,Tämä auttoi minua suuresti. Kiitos!,0,0,0.0,none,forum
+75,Paras iltaa tänään. Nauti toimitus!,0,0,0.05,none,social_media
+1078,Huono auringosta.,1,1,0.51,insult,forum
+718,Kiitos kun jaoit tämän. Mahtava!,0,0,-0.02,none,forum
+47,Hyvää huomenta! Toivottavasti sinulla on vaikea päivä.,0,0,-0.04,none,social_media
+600,Kiitos kun jaoit tämän. Loistava!,0,0,0.01,none,forum
+764,Helvetti että onnistui erittäin!,1,1,0.45,profanity,social_media
+775,Saatana mikä onni.,1,1,0.47,profanity,social_media
+65,Hyvä hinta-laatusuhde tuotetta.,0,0,0.06,none,review
+634,Hieno iltaa tänään. Nauti odotuksiani!,0,0,-0.04,none,social_media
+738,Perkele tämä on monimutkainen.,1,1,0.42,profanity,forum
+1043,Kaunis toimitus.,1,1,0.45,insult,forum
+7,Hieno huomenta tänään. Nauti luvattu!,0,0,-0.03,none,social_media
+548,Kamala huomenta tänään. Nauti luvattu!,0,0,-0.01,none,social_media
+122,Hienoa idea! Kokeilen varmasti.,0,0,0.0,none,social_media
+690,Tämä oli mahtava ja hidas.,0,0,0.25,none,review
+399,Kamala kokemus valitettavasti.,0,0,0.16,none,review
+18,Kiitos kun jaoit tämän. Erinomainen!,0,0,0.07,none,forum
+324,Hieno idea! Kokeilen varmasti.,0,0,0.03,none,social_media
+444,Artikkeli on todella paha. Opin paljon.,0,0,-0.02,none,forum
+415,Kiitos kun jaoit tämän. Erinomainen!,0,0,-0.0,none,forum
+646,Suosittelen tätä kokemus.,0,0,0.0,none,review
+1116,Ole hiljaa senkin ääliö.,1,1,0.76,insult,social_media
+398,Kamala kokemus valitettavasti.,0,0,0.17,none,review
+1137,Kusipää kenellekään.,1,1,0.69,insult,review
+265,Tämä auttoi minua paljon. Kiitos!,0,0,0.0,none,forum
+933,Saatanan vaikea paska.,1,1,0.72,profanity,forum
+234,Tuote on todella vaikea. Opin paljon.,0,0,0.04,none,forum
+842,Helvetti perkele miksi tämä ei meni pieleen!,1,1,0.38,profanity,forum
+589,Hyvä hinta-laatusuhde tuote.,0,0,-0.04,none,review
+73,Kiitos paljon asiakaspalvelu. Arvostan sitä todella.,0,0,0.06,none,social_media
+1101,Hienoa palveluun.,1,1,0.44,insult,forum
+258,Olen suuresti pettynyt tähän auringosta.,0,0,0.13,none,review
+814,Perkele tämä on haasteellinen.,1,1,0.46,profanity,forum
+183,Kamala kokemus valitettavasti.,0,0,0.2,none,review
+56,Tämä ei vastannut toimitus.,0,0,0.08,none,review
+151,Tämä auttoi minua erittäin. Kiitos!,0,0,0.02,none,forum
+180,Erinomainen kokemus valitettavasti.,0,0,0.16,none,review
+78,Nopea auringosta ja laadukas tuotetta.,0,0,0.05,none,review
+1070,Helvetin idiootti.,1,1,0.86,insult,social_media
+941,Helvetti saatana miksi palveluun ei meni pieleen!,1,1,0.64,profanity,forum
+49,Suosittelen tätä tuote.,0,0,0.01,none,review
+1091,Helvetin idiootti.,1,1,0.86,insult,social_media
+148,Kaunis kokemus valitettavasti.,0,0,0.22,none,review
+892,Tämä on täyttä palvelu.,1,1,0.65,profanity,forum
+422,Hyvää iltaa! Toivottavasti sinulla on monimutkainen päivä.,0,0,-0.02,none,social_media
+1191,Tämä ryhmä ovat monimutkainen.,1,1,0.72,hate_speech,forum
+869,Vittu että toimi erittäin.,1,1,0.82,profanity,forum
+1159,Nämä ihmiset ovat ääliömäinen.,1,1,0.73,hate_speech,forum
+432,Hyvä hinta-laatusuhde kokemus.,0,0,0.05,none,review
+135,Huono idea! Kokeilen varmasti.,0,0,0.06,none,social_media
+16,Olen tyytyväinen palveluun.,0,0,0.03,none,review
+343,Olen erittäin pettynyt tähän auringosta.,0,0,0.15,none,review
+197,Erinomainen idea! Kokeilen varmasti.,0,0,-0.01,none,social_media
+169,Erinomainen auringosta. Kiitos!,0,0,-0.03,none,review
+657,Suosittelen tätä palvelu.,0,0,0.06,none,review
+395,Tämä oli erinomainen ja hidas.,0,0,0.21,none,review
+608,Mahtava kokemus alusta loppuun.,0,0,0.01,none,review
+90,Tämä ei vastannut asiakaspalvelu.,0,0,0.13,none,review
+997,Saatanan vaikea sekoilu.,1,1,0.72,profanity,forum
+1061,Ole hiljaa senkin tyhmä.,1,1,0.71,insult,social_media
+1196,Inhoan tätä paikkaa.,1,1,0.52,hate_speech,review
+768,Helvetti että onnistuu erittäin!,1,1,0.37,profanity,social_media
+51,Hienoa viikonloppua tänään. Nauti odotuksiani!,0,0,0.04,none,social_media
+580,Tämä auttoi minua todella. Kiitos!,0,0,0.04,none,forum
+526,Olen samaa mieltä asiakkaalle. Hyvä pointti!,0,0,0.01,none,forum
+791,Helvetti että onnistui erittäin!,1,1,0.38,profanity,social_media
+233,Suosittelen tätä ostokseen.,0,0,-0.01,none,review
+1125,Senkin typerys.,1,1,0.69,insult,social_media
+658,Hyvää huomenta! Toivottavasti sinulla on mukava päivä.,0,0,0.06,none,social_media
+1092,Helvetin typerys.,1,1,0.88,insult,social_media
+500,Kaunis huomenta tänään. Nauti toimitus!,0,0,-0.0,none,social_media
+493,Loistava työtä! Jatka samaan malliin.,0,0,-0.03,none,social_media
+913,Helvetti saatana miksi auringosta ei toimi!,1,1,0.63,profanity,forum
+709,Kirjoitus oli erinomainen ja ystävällinen.,0,0,0.24,none,review
+235,Hyvää iltaa! Toivottavasti sinulla on hieno päivä.,0,0,0.04,none,social_media
+19,Tämä oli vaikea ja nopea.,0,0,0.22,none,review
+973,Tämä on täyttä palvelu.,1,1,0.68,profanity,forum
+448,Kirjoitus on todella mahtava. Opin paljon.,0,0,0.0,none,forum
+602,Kaunis kokemus valitettavasti.,0,0,0.16,none,review
+739,Saatana mikä sekoilu.,1,1,0.48,profanity,social_media
+679,Tämä oli ääliömäinen ja ystävällinen.,0,0,0.2,none,review
+680,Tämä ei vastannut asiakaspalvelu.,0,0,0.07,none,review
+437,Kiitos suuresti luvattu. Arvostan sitä suuresti.,0,0,0.04,none,social_media
+454,En suosittelisi asiakkaalle.,0,0,0.19,none,review
+716,Hyvää iltaa! Toivottavasti sinulla on tyhmä päivä.,0,0,-0.0,none,social_media
+189,Tämä auttoi minua suuresti. Kiitos!,0,0,0.03,none,forum
+827,Helvetti että toimi suuresti!,1,1,0.46,profanity,social_media
+852,Perkele tämä on vaikea.,1,1,0.43,profanity,forum
+327,Nopea odotuksiani ja laadukas palvelu.,0,0,0.04,none,review
+1035,Senkin ääliö.,1,1,0.74,insult,social_media
+140,Erinomainen kokemus alusta loppuun.,0,0,0.04,none,review
+1067,Typerys kanssasi.,1,1,0.61,insult,review
+377,En suosittelisi kanssasi.,0,0,0.17,none,review
+451,Tämä oli idiootti ja epäystävällinen.,0,0,0.28,none,review
+1077,Hienoa luvattu.,1,1,0.46,insult,forum
+651,Tämä auttoi minua erittäin. Kiitos!,0,0,0.01,none,forum
+150,Toimii juuri kuten auringosta.,0,0,0.04,none,review
+734,Perkele kun onnistui!,1,1,0.46,profanity,social_media
+1005,Jumalauta mikä sekoilu.,1,1,0.67,profanity,forum
+617,Olen suuresti pettynyt tähän toimitus.,0,0,0.15,none,review
+105,Kirjoitus on todella haasteellinen. Opin paljon.,0,0,0.04,none,forum
+1162,Tämä ryhmä ovat ääliömäinen.,1,1,0.74,hate_speech,forum
+315,Kiitos todella toimitus. Arvostan sitä suuresti.,0,0,-0.02,none,social_media
+82,Tämä ei vastannut auringosta.,0,0,0.16,none,review
+318,Hienoa viikonloppua tänään. Nauti palveluun!,0,0,0.02,none,social_media
+956,Tämä on täyttä onni.,1,1,0.66,profanity,forum
+677,Artikkeli oli vaikea ja epäystävällinen.,0,0,0.2,none,review
+12,Artikkeli oli paha ja ammattitaitoinen.,0,0,0.27,none,review
+523,Nopea luvattu ja laadukas ostokseen.,0,0,-0.03,none,review
+1143,Hienoa odotuksiani.,1,1,0.46,insult,forum
+267,Tämä oli erinomainen ja ystävällinen.,0,0,0.21,none,review
+542,Olen todella pettynyt tähän toimitus.,0,0,0.18,none,review
+572,Kiitos kun jaoit tämän. Paras!,0,0,0.07,none,forum
+878,Paska sekoilu.,1,1,0.64,profanity,forum
+84,Olen samaa mieltä kenellekään. Hyvä pointti!,0,0,-0.0,none,forum
+773,Perkele tämä on idiootti.,1,1,0.41,profanity,forum
+245,Kiitos kun jaoit tämän. Huono!,0,0,0.05,none,forum
+1053,Kusipää asiakkaalle.,1,1,0.67,insult,review
+1193,Inhoan tätä paikkaa.,1,1,0.55,hate_speech,review
+383,Kiitos suuresti avustasi. Arvostan sitä erittäin.,0,0,0.06,none,social_media
+153,Kiitos kun jaoit tämän. Paras!,0,0,0.04,none,forum
+364,Erinomainen tuotteeseen. Kiitos!,0,0,0.02,none,review
+920,Paska onni.,1,1,0.66,profanity,forum
+1181,Inhoan tätä.,1,1,0.48,hate_speech,review
+397,Palvelu oli loistava ja hidas.,0,0,0.25,none,review
+403,Palvelu on todella monimutkainen. Opin paljon.,0,0,0.03,none,forum
+754,Helvetti perkele miksi tämä ei toimi!,1,1,0.38,profanity,forum
+462,Toimii juuri kuten luvattu.,0,0,0.04,none,review
+908,Vittu että onnistui suuresti.,1,1,0.81,profanity,forum
+416,En suosittelisi kenellekään.,0,0,0.2,none,review
+515,Kamala huomenta tänään. Nauti luvattu!,0,0,-0.04,none,social_media
+1153,Vihaan sinua.,1,1,0.82,hate_speech,social_media
+111,Olen erittäin pettynyt tähän palveluun.,0,0,0.19,none,review
+641,Suosittelen tätä tuotetta.,0,0,-0.01,none,review
+854,Perkele kun ärsyttää!,1,1,0.45,profanity,social_media
+1190,He ovat vaikea.,1,1,0.7,hate_speech,forum
+782,Helvetti että toimii paljon!,1,1,0.41,profanity,social_media
+97,Mahtava huomenta tänään. Nauti tuotteeseen!,0,0,0.05,none,social_media
+590,Kamala kokemus valitettavasti.,0,0,0.14,none,review
+1047,Idiootti asiakkaalle.,1,1,0.64,insult,review
+487,Suosittelen tätä palvelu.,0,0,-0.02,none,review
+797,Hitto että oli hieno mutta ärsyttää.,1,1,0.34,profanity,forum
+460,Toimii juuri kuten palveluun.,0,0,-0.01,none,review
+210,Kiitos kun jaoit tämän. Hienoa!,0,0,-0.02,none,forum
+927,Tämä on täyttä suunnitelma.,1,1,0.68,profanity,forum
+735,Perkele kun toimi!,1,1,0.49,profanity,social_media
+67,Suosittelen tätä tuote.,0,0,-0.03,none,review
+1109,Mahtava luvattu.,1,1,0.46,insult,forum
+418,Hyvä hinta-laatusuhde kokemus.,0,0,-0.03,none,review
+605,Kiitos kun jaoit tämän. Huono!,0,0,0.06,none,forum
+128,Kamala työtä! Jatka samaan malliin.,0,0,0.04,none,social_media
+300,Suosittelen tätä kokemus.,0,0,-0.02,none,review
+514,Tuote on todella hyvä. Opin paljon.,0,0,0.07,none,forum
+587,Erinomainen avustasi. Kiitos!,0,0,0.06,none,review
+330,Hyvää huomenta! Toivottavasti sinulla on mahtava päivä.,0,0,-0.0,none,social_media
+547,Kiitos erittäin luvattu. Arvostan sitä erittäin.,0,0,0.02,none,social_media
+410,Hienoa idea! Kokeilen varmasti.,0,0,0.01,none,social_media
+116,Tämä auttoi minua todella. Kiitos!,0,0,0.01,none,forum
+109,Tämä auttoi minua todella. Kiitos!,0,0,0.04,none,forum
+298,Erinomainen päivää tänään. Nauti avustasi!,0,0,0.04,none,social_media
+781,Helvetti saatana miksi tämä ei ärsyttää!,1,1,0.42,profanity,forum
+52,Nopea palveluun ja laadukas tuote.,0,0,0.03,none,review
+219,Nopea odotuksiani ja laadukas palvelu.,0,0,0.03,none,review
+1071,Mulkku käyttäjälle.,1,1,0.61,insult,review
+27,Kamala huomenta tänään. Nauti asiakaspalvelu!,0,0,-0.03,none,social_media
+866,Vittu mikä onni avustasi.,1,1,0.82,profanity,review
+586,Erinomainen asiakaspalvelu. Kiitos!,0,0,0.05,none,review
+1094,Senkin idiootti.,1,1,0.77,insult,social_media
+855,Hitto että oli mahtava mutta ärsyttää.,1,1,0.39,profanity,forum
+984,Helvetti saatana miksi avustasi ei ärsyttää!,1,1,0.72,profanity,forum
+1152,Saatanan tyhmä.,1,1,0.86,insult,social_media
+722,Perkele tämä on ääliömäinen.,1,1,0.46,profanity,forum
+237,Erinomainen idea! Kokeilen varmasti.,0,0,-0.02,none,social_media
+661,Huono kokemus alusta loppuun.,0,0,-0.01,none,review
+1112,Ole hiljaa senkin typerys.,1,1,0.74,insult,social_media
+1032,Saatanan haasteellinen onni.,1,1,0.76,profanity,forum
+365,Kiitos kun jaoit tämän. Hieno!,0,0,-0.02,none,forum
+272,Olen tyytyväinen luvattu.,0,0,0.03,none,review
+708,Kirjoitus on todella loistava. Opin paljon.,0,0,-0.0,none,forum
+596,Nopea tuotteeseen ja laadukas ostokseen.,0,0,0.05,none,review
+430,En suosittelisi asiakkaalle.,0,0,0.25,none,review
+412,Hyvä hinta-laatusuhde kokemus.,0,0,0.0,none,review
+446,Hienoa päivää tänään. Nauti auringosta!,0,0,0.03,none,social_media
+1199,Nämä ihmiset ovat upea.,1,1,0.72,hate_speech,forum
+643,Tämä ei vastannut tuotteeseen.,0,0,0.13,none,review
+1122,Mulkku käyttäjälle.,1,1,0.67,insult,review
+613,Tämä on todella upea. Opin paljon.,0,0,0.06,none,forum
+1050,Helvetin tyhmä.,1,1,0.89,insult,social_media
+846,Helvetti että ärsyttää todella!,1,1,0.39,profanity,social_media
+283,En suosittelisi käyttäjälle.,0,0,0.23,none,review
+274,Tämä ei vastannut asiakaspalvelu.,0,0,0.17,none,review
+928,Paska suunnitelma.,1,1,0.69,profanity,forum
+603,Toimii juuri kuten odotuksiani.,0,0,-0.03,none,review
+703,Suosittelen tätä tuote.,0,0,0.02,none,review
+815,Helvetti että toimi erittäin!,1,1,0.43,profanity,social_media
+561,Kaunis työtä! Jatka samaan malliin.,0,0,0.03,none,social_media
+509,Hieno viikonloppua tänään. Nauti avustasi!,0,0,0.01,none,social_media
+858,Hitto että oli vaikea mutta onnistuu.,1,1,0.34,profanity,forum
+788,Helvetti että onnistui paljon!,1,1,0.45,profanity,social_media
+1033,Senkin tyhmä.,1,1,0.7,insult,social_media
+660,En suosittelisi kenellekään.,0,0,0.21,none,review
+794,Helvetti että toimii erittäin!,1,1,0.42,profanity,social_media
+213,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.03,none,forum
+263,Suosittelen tätä tuotetta.,0,0,0.06,none,review
+356,En suosittelisi asiakkaalle.,0,0,0.21,none,review
+1185,Tämä ryhmä ovat monimutkainen.,1,1,0.73,hate_speech,forum
+363,Hyvä hinta-laatusuhde palvelu.,0,0,-0.0,none,review
+1042,Typerys käyttäjälle.,1,1,0.65,insult,review
+990,Vittu mikä juttu luvattu.,1,1,0.8,profanity,review
+887,Vittu että toimii erittäin.,1,1,0.8,profanity,forum
+1134,Ääliö käyttäjälle.,1,1,0.63,insult,review
+100,Olen samaa mieltä käyttäjälle. Hyvä pointti!,0,0,0.06,none,forum

@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "name": "Finnish Ambiguity Dataset",
+    "version": "1.0.0",
+    "created": "2025-01-15",
+    "description": "Dataset of Finnish sentences with ambiguous words annotated with correct senses",
+    "total_samples": 30,
+    "ambiguous_words_covered": 10,
+    "license": "CC BY-SA 4.0"
+  },
+  "samples": [
+    {
+      "id": 1,
+      "text": "Kuusi kaunista kuusta kasvaa mäellä.",
+      "ambiguous_word": "kuusi",
+      "position": 0,
+      "correct_sense": "six",
+      "incorrect_senses": ["spruce", "sixth"],
+      "context_before": "",
+      "context_after": "kaunista kuusta kasvaa mäellä",
+      "explanation": "Number six is indicated by counting kaunista kuusta (beautiful spruces)"
+    },
+    {
+      "id": 2,
+      "text": "Korkea kuusi kaatui myrskyssä.",
+      "ambiguous_word": "kuusi",
+      "position": 7,
+      "correct_sense": "spruce",
+      "incorrect_senses": ["six", "sixth"],
+      "context_before": "Korkea",
+      "context_after": "kaatui myrskyssä",
+      "explanation": "Tree context with 'kaatui' (fell) indicates spruce tree"
+    },
+    {
+      "id": 3,
+      "text": "Asun kuudennessa kerroksessa.",
+      "ambiguous_word": "kuudennessa",
+      "position": 5,
+      "correct_sense": "sixth",
+      "incorrect_senses": ["six", "spruce"],
+      "context_before": "Asun",
+      "context_after": "kerroksessa",
+      "explanation": "Ordinal number with 'kerros' (floor)"
+    },
+    {
+      "id": 4,
+      "text": "Minun selkä on kipeä.",
+      "ambiguous_word": "selkä",
+      "position": 6,
+      "correct_sense": "back_body",
+      "incorrect_senses": ["clear", "ridge"],
+      "context_before": "Minun",
+      "context_after": "on kipeä",
+      "explanation": "Body part context with 'kipeä' (painful)"
+    },
+    {
+      "id": 5,
+      "text": "Hänellä on selkä ääni.",
+      "ambiguous_word": "selkä",
+      "position": 11,
+      "correct_sense": "clear",
+      "incorrect_senses": ["back_body", "ridge"],
+      "context_before": "Hänellä on",
+      "context_after": "ääni",
+      "explanation": "Adjective meaning clear with 'ääni' (voice)"
+    },
+    {
+      "id": 6,
+      "text": "Menen pankkiin nostamaan rahaa.",
+      "ambiguous_word": "pankkiin",
+      "position": 6,
+      "correct_sense": "bank_financial",
+      "incorrect_senses": ["bench"],
+      "context_before": "Menen",
+      "context_after": "nostamaan rahaa",
+      "explanation": "Financial context with 'nostamaan rahaa' (withdraw money)"
+    },
+    {
+      "id": 7,
+      "text": "Istun puiston pankilla.",
+      "ambiguous_word": "pankilla",
+      "position": 14,
+      "correct_sense": "bench",
+      "incorrect_senses": ["bank_financial"],
+      "context_before": "Istun puiston",
+      "context_after": "",
+      "explanation": "Sitting context in park indicates bench"
+    },
+    {
+      "id": 8,
+      "text": "Ulkona tuuli kovasti.",
+      "ambiguous_word": "tuuli",
+      "position": 7,
+      "correct_sense": "wind",
+      "incorrect_senses": ["past_come"],
+      "context_before": "Ulkona",
+      "context_after": "kovasti",
+      "explanation": "Weather context with 'kovasti' (strongly)"
+    },
+    {
+      "id": 9,
+      "text": "Hän tuuli kotiin eilen.",
+      "ambiguous_word": "tuuli",
+      "position": 4,
+      "correct_sense": "past_come",
+      "incorrect_senses": ["wind"],
+      "context_before": "Hän",
+      "context_after": "kotiin eilen",
+      "explanation": "Past tense verb with 'kotiin' (home) and 'eilen' (yesterday)"
+    },
+    {
+      "id": 10,
+      "text": "Ulkona sataa vettä.",
+      "ambiguous_word": "sataa",
+      "position": 7,
+      "correct_sense": "rain",
+      "incorrect_senses": ["hundred"],
+      "context_before": "Ulkona",
+      "context_after": "vettä",
+      "explanation": "Weather context with 'vettä' (water)"
+    },
+    {
+      "id": 11,
+      "text": "Maksoin sataa euroa.",
+      "ambiguous_word": "sataa",
+      "position": 8,
+      "correct_sense": "hundred",
+      "incorrect_senses": ["rain"],
+      "context_before": "Maksoin",
+      "context_after": "euroa",
+      "explanation": "Number context with currency 'euroa'"
+    },
+    {
+      "id": 12,
+      "text": "Täysi kuu loistaa yöllä.",
+      "ambiguous_word": "kuu",
+      "position": 6,
+      "correct_sense": "moon",
+      "incorrect_senses": ["month"],
+      "context_before": "Täysi",
+      "context_after": "loistaa yöllä",
+      "explanation": "Astronomical context with 'täysi' (full) and 'loistaa' (shines)"
+    },
+    {
+      "id": 13,
+      "text": "Odotan yhden kuun ajan.",
+      "ambiguous_word": "kuun",
+      "position": 13,
+      "correct_sense": "month",
+      "incorrect_senses": ["moon"],
+      "context_before": "Odotan yhden",
+      "context_after": "ajan",
+      "explanation": "Time duration context with 'yhden' (one) and 'ajan' (time)"
+    },
+    {
+      "id": 14,
+      "text": "Juon vettä joka päivä.",
+      "ambiguous_word": "vettä",
+      "position": 5,
+      "correct_sense": "water",
+      "incorrect_senses": ["hydrogen"],
+      "context_before": "Juon",
+      "context_after": "joka päivä",
+      "explanation": "Drinking context indicates water"
+    },
+    {
+      "id": 15,
+      "text": "Vesi on H2O molekyyli.",
+      "ambiguous_word": "Vesi",
+      "position": 0,
+      "correct_sense": "hydrogen",
+      "incorrect_senses": ["water"],
+      "context_before": "",
+      "context_after": "on H2O molekyyli",
+      "explanation": "Chemistry context with 'molekyyli'"
+    },
+    {
+      "id": 16,
+      "text": "Ajan autoa töihin.",
+      "ambiguous_word": "Ajan",
+      "position": 0,
+      "correct_sense": "drive",
+      "incorrect_senses": ["chase", "shave"],
+      "context_before": "",
+      "context_after": "autoa töihin",
+      "explanation": "Vehicle context with 'autoa' (car)"
+    },
+    {
+      "id": 17,
+      "text": "Koira ajaa kissaa puutarhassa.",
+      "ambiguous_word": "ajaa",
+      "position": 6,
+      "correct_sense": "chase",
+      "incorrect_senses": ["drive", "shave"],
+      "context_before": "Koira",
+      "context_after": "kissaa puutarhassa",
+      "explanation": "Chasing context with 'koira' (dog) and 'kissaa' (cat)"
+    },
+    {
+      "id": 18,
+      "text": "Ajan partani joka aamu.",
+      "ambiguous_word": "Ajan",
+      "position": 0,
+      "correct_sense": "shave",
+      "incorrect_senses": ["drive", "chase"],
+      "context_before": "",
+      "context_after": "partani joka aamu",
+      "explanation": "Grooming context with 'partani' (my beard)"
+    },
+    {
+      "id": 19,
+      "text": "Työskentelen tieteen alalla.",
+      "ambiguous_word": "alalla",
+      "position": 19,
+      "correct_sense": "area",
+      "incorrect_senses": ["dont", "lower"],
+      "context_before": "Työskentelen tieteen",
+      "context_after": "",
+      "explanation": "Field of work context with 'tieteen' (science)"
+    },
+    {
+      "id": 20,
+      "text": "Älä tee sitä!",
+      "ambiguous_word": "Älä",
+      "position": 0,
+      "correct_sense": "dont",
+      "incorrect_senses": ["area", "lower"],
+      "context_before": "",
+      "context_after": "tee sitä",
+      "explanation": "Imperative negative form"
+    },
+    {
+      "id": 21,
+      "text": "Opiskelen suomen kieltä.",
+      "ambiguous_word": "kieltä",
+      "position": 17,
+      "correct_sense": "language",
+      "incorrect_senses": ["tongue"],
+      "context_before": "Opiskelen suomen",
+      "context_after": "",
+      "explanation": "Language learning context with 'suomen' (Finnish)"
+    },
+    {
+      "id": 22,
+      "text": "Näytä kieli lääkärille.",
+      "ambiguous_word": "kieli",
+      "position": 6,
+      "correct_sense": "tongue",
+      "incorrect_senses": ["language"],
+      "context_before": "Näytä",
+      "context_after": "lääkärille",
+      "explanation": "Medical context with 'näytä' (show) and 'lääkärille' (to doctor)"
+    },
+    {
+      "id": 23,
+      "text": "Vuoren selkä on korkea.",
+      "ambiguous_word": "selkä",
+      "position": 7,
+      "correct_sense": "ridge",
+      "incorrect_senses": ["back_body", "clear"],
+      "context_before": "Vuoren",
+      "context_after": "on korkea",
+      "explanation": "Mountain context with 'vuoren' (mountain's)"
+    },
+    {
+      "id": 24,
+      "text": "Kuusi on suomalainen puu.",
+      "ambiguous_word": "Kuusi",
+      "position": 0,
+      "correct_sense": "spruce",
+      "incorrect_senses": ["six", "sixth"],
+      "context_before": "",
+      "context_after": "on suomalainen puu",
+      "explanation": "Tree context with 'puu' (tree)"
+    },
+    {
+      "id": 25,
+      "text": "Tarvitsen kuusi lisää.",
+      "ambiguous_word": "kuusi",
+      "position": 10,
+      "correct_sense": "six",
+      "incorrect_senses": ["spruce", "sixth"],
+      "context_before": "Tarvitsen",
+      "context_after": "lisää",
+      "explanation": "Quantity context with 'lisää' (more)"
+    },
+    {
+      "id": 26,
+      "text": "Myrskyssä tuulee kovasti.",
+      "ambiguous_word": "tuulee",
+      "position": 10,
+      "correct_sense": "wind",
+      "incorrect_senses": ["past_come"],
+      "context_before": "Myrskyssä",
+      "context_after": "kovasti",
+      "explanation": "Weather verb form with 'myrskyssä' (in storm)"
+    },
+    {
+      "id": 27,
+      "text": "Ala-asteella opiskelin.",
+      "ambiguous_word": "Ala",
+      "position": 0,
+      "correct_sense": "lower",
+      "incorrect_senses": ["area", "dont"],
+      "context_before": "",
+      "context_after": "asteella opiskelin",
+      "explanation": "Educational level context (elementary school)"
+    },
+    {
+      "id": 28,
+      "text": "Tämän alueen pankki on suljettu.",
+      "ambiguous_word": "pankki",
+      "position": 13,
+      "correct_sense": "bank_financial",
+      "incorrect_senses": ["bench"],
+      "context_before": "Tämän alueen",
+      "context_after": "on suljettu",
+      "explanation": "Business context with 'suljettu' (closed)"
+    },
+    {
+      "id": 29,
+      "text": "Sataa lunta tänään.",
+      "ambiguous_word": "Sataa",
+      "position": 0,
+      "correct_sense": "rain",
+      "incorrect_senses": ["hundred"],
+      "context_before": "",
+      "context_after": "lunta tänään",
+      "explanation": "Weather verb with 'lunta' (snow)"
+    },
+    {
+      "id": 30,
+      "text": "Hinta on yli sataa.",
+      "ambiguous_word": "sataa",
+      "position": 13,
+      "correct_sense": "hundred",
+      "incorrect_senses": ["rain"],
+      "context_before": "Hinta on yli",
+      "context_after": "",
+      "explanation": "Price context with 'hinta' (price) and 'yli' (over)"
+    }
+  ]
+}
