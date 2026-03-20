@@ -1,0 +1,89 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master, dev]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  test:
+    name: Test (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install system dependencies (libvoikko)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libvoikko-dev voikko-fi
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install libvoikko pytest pytest-asyncio pytest-cov httpx
+
+      - name: Run tests (with Voikko)
+        run: |
+          pytest app/tests/ -v \
+            --cov=app \
+            --cov-report=term-missing \
+            --cov-report=xml \
+            -x
+
+      - name: Upload coverage
+        uses: codecov/codecov-action@v4
+        with:
+          file: ./coverage.xml
+        continue-on-error: true
+
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install linting tools
+        run: pip install ruff
+
+      - name: Ruff check
+        run: ruff check app/ --select E,F,W,I,UP,B --ignore E501
+
+  test-no-voikko:
+    name: Test (fallback, no Voikko)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies (no libvoikko)
+        run: |
+          pip install --upgrade pip
+          pip install fastapi uvicorn pydantic pydantic-settings \
+                      pytest pytest-asyncio httpx
+
+      - name: Run tests (rule-based fallback only)
+        run: |
+          pytest app/tests/test_advanced_lemmatizer.py \
+                 app/tests/test_lemmatizer.py \
+                 -v -x
