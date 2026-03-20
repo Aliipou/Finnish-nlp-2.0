@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)
-![Tests](https://img.shields.io/badge/tests-99%20passing-brightgreen.svg)
+![Tests](https://img.shields.io/badge/tests-284%20passing-brightgreen.svg)
 ![Routers](https://img.shields.io/badge/routers-11-blue.svg)
 ![Endpoints](https://img.shields.io/badge/endpoints-30+-green.svg)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
@@ -17,6 +17,58 @@
 [Features](#features) • [Quick Start](#quick-start) • [Screenshots](#screenshots) • [API Docs](#api-endpoints) • [Documentation](#documentation)
 
 </div>
+
+---
+
+## Advanced Finnish Morphology Engine (v2.1)
+
+> **What was fixed:** The previous engine stored Voikko's Finnish-language case names untranslated (`nimento`, `omanto`…). The engine now correctly translates all morphological fields to English and detects case/number for every inflected form.
+
+### Complete Finnish Grammar Coverage
+
+| Feature | Details |
+|---------|---------|
+| **15 grammatical cases** | All standard + Abessive (`rahatta`), Comitative (`koiroineen`), Instructive (`silmin`), Prolative (`postitse`) |
+| **5 verb moods** | Indicative, Conditional, Imperative, **Potentiaali** (`lienee`, `mennee`, `tullee`) |
+| **5 infinitive types** | 1st `mennä` · 2nd `mennessä` · 3rd `menemässä` · 4th `meneminen` · 5th `menemäisillään` |
+| **Passive voice** | `tehdään/tehtiin`, `mennään/mentiin`, `tullaan/tultiin`, all verbs |
+| **4 participle types** | Active present/past (`tekevä`, `tehnyt`) + passive past (`tehty`) |
+| **Accusative pronouns** | `minut`, `sinut`, `hänet`, `meidät`, `teidät`, `heidät` (morphologically distinct) |
+| **60+ word types** | Full 15-case paradigms: irregular `vesi`, `käsi`, `vuosi`, `sydän`, `tähti`; common `mies`, `lapsi`, `perhe` |
+| **Consonant gradation** | kk→k, pp→p, tt→t, k→j, nt→nn, t→d across all known words |
+| **Case detection** | Correct case label per inflected form (e.g. `talossa` → Inessive, not Nominative) |
+
+### Test Suite: 284 tests, 26 classes, 100% passing
+
+```
+TestVoikkoCaseTranslation   — all 14 Finnish→English case name translations
+TestCaseDetectionKnownWords — correct case labels for all forms (not hardcoded Nominative)
+TestAbessiveCase            — rahatta, vedettä, koiritta (without X)
+TestComitativeCase          — koiroineen, kissoineen (together with)
+TestInstructiveCase         — silmin, käsin, jaloin, suin (by means of)
+TestProlativeCase           — postitse, meritse, maitse (by route)
+TestEssiveCase              — kissana, talona (as/in the role of)
+TestTranslativeCase         — kissaksi, taloksi (becoming)
+TestPotentiaaliMood         — lienee, mennee, tullee, saanee (potential/literary)
+TestPassiveVoice            — tehdään/tehtiin, mennään/mentiin
+TestVerbInfinitives         — all 5 infinitive types
+TestParticiples             — tekevä, tehnyt, tehty + all inflected forms
+TestPersonalPronouns        — all forms incl. accusative minut/sinut/hänet
+TestLiteraryVocabulary      — vesi, käsi, vuosi, sydän, tähti (irregular types)
+TestComplexLiteraryTexts    — professor-level Finnish literary sentences
+```
+
+### Runs without Voikko (pure Python fallback)
+
+```bash
+# Requires only Python + pytest
+pip install fastapi pydantic pytest pytest-asyncio
+pytest app/tests/test_advanced_lemmatizer.py -v   # 284 tests pass
+
+# With full Voikko morphological analysis (Ubuntu/Debian)
+sudo apt-get install libvoikko-dev voikko-fi
+pip install libvoikko
+```
 
 ---
 
