@@ -35,14 +35,75 @@ Full conjugation across all persons, tenses, and moods including the rare Potent
 **Text Normalization**
 Handles colloquial Finnish, regional dialects, and spoken-language shortenings.
 
+## Architecture
+
+```
+HTTP Request
+     |
+     v
+FastAPI router layer  (app/routers/)
+     |
+     v
+Service layer  (app/services/)
+  +-- VoikkoService   -- wraps libvoikko C library via Python bindings
+  |     Handles: morphological analysis, lemmatisation, hyphenation
+  |     Falls back to rule engine when Voikko returns multiple candidates
+  |
+  +-- RuleEngine      -- deterministic FST-style fallback
+  |     Handles: compound words, colloquial shortenings, dialectal forms
+  |     Voikko alone yields ambiguous results for ~11% of tokens; the
+  |     rule engine resolves these with context-sensitive heuristics.
+  |
+  +-- MLDisambiguator -- spaCy fi + transformers for context-dependent cases
+        Used only when both Voikko and the rule engine disagree.
+        Accounts for the remaining accuracy gap over Voikko-alone.
+
+Persistence layer  (optional)
+  PostgreSQL via SQLAlchemy -- stores analysis results for caching
+```
+
+**Why Voikko?** Voikko is the de-facto open-source Finnish morphological analyser, built on HFST finite-state transducers. It handles all 15 grammatical cases and verb inflection natively. The Python `voikko` package wraps the C library `libvoikko`. The system package (`libvoikko-dev` on Debian/Ubuntu, `libvoikko` on macOS via Homebrew) must be present at runtime — the Python binding is a thin FFI wrapper, not a standalone implementation.
+
+**Dependency chain:**
+```
+voikko (pip)  ->  libvoikko (system C library)  ->  voikko-fi (Finnish dictionary)
+```
+All three must be installed. Docker handles this automatically. For local development, see the installation instructions below.
+
 ## Quick Start
+
+### Docker (recommended — handles Voikko automatically)
 
 ```bash
 git clone https://github.com/Aliipou/Finnish-nlp-2.0.git
 cd Finnish-nlp-2.0
-pip install -r requirements.txt
-uvicorn main:app --reload
+docker compose up --build
 ```
+
+API docs available at `http://localhost:8000/docs`
+
+### Local (Ubuntu / Debian)
+
+```bash
+# 1. Install system library and Finnish dictionary
+sudo apt-get install -y libvoikko-dev voikko-fi
+
+# 2. Install Python dependencies
+pip install -r requirements.txt
+
+# 3. Start the API
+uvicorn app.main:app --reload
+```
+
+### Local (macOS)
+
+```bash
+brew install libvoikko
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+
+> **Note:** If `import voikko` raises `OSError: libvoikko.so: cannot open shared object file`, the system C library is missing. The `voikko` pip package does not bundle it.
 
 API docs available at `http://localhost:8000/docs`
 
