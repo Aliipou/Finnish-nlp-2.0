@@ -62,3 +62,12 @@ data/cache/*
 
 # Claude
 .claude/
+
+# Internal workflow
+CLAUDE.md
+ANTI_GARBAGE_CHECKLIST.md
+
+# OS artifacts
+"New Text Document.txt"
+Thumbs.db
+.DS_Store
